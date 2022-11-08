@@ -157,7 +157,7 @@ theme: consult
 - traumatismes crâniens graves
 - démence héréditaire
 - problèmes de sommeil
-it  has been
+
 ---
 
 <grid drop="25  -6">
