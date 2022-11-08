@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "6b56b046836812a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "01098c570601a492",
+        "type": "tabs",
+        "dimension": 59.699355762347885,
+        "children": [
+          {
+            "id": "607865c6aeb5fefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scite/brain diseases/Brain Diseases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11459d38392d4e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scite/brain diseases/Presentation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3543a82c8e1f17a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dissertation sur le rire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d6437243cfa7f5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "43694d4962076596",
+        "type": "tabs",
+        "dimension": 40.30064423765211,
+        "children": [
+          {
+            "id": "86f3b81f37029845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scite/brain diseases/Brain diseases presentation (en).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01bb5f89177fc530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8985f476bc3144b6",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e54a28987bbc5ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La structure d'un paragraphe argumentatif.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "884c564c4895eb93",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b609e0711170483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bb7acd0ebab9042",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87f03dda335eab19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#francais",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd136fe8665a053a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fef9cb2caeea965b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a29ea714c8e18807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e5f1594ad18eab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scite/brain diseases/Presentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "640a7f2c8fb246d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scite/brain diseases/Presentation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02cc0b3064d893ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12e4e0cd37c9145d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scite/brain diseases/Presentation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9bb7acd0ebab9042",
+  "lastOpenFiles": [
+    "Scite/brain diseases/Brain diseases presentation (fr).md",
+    "Scite/brain diseases/Presentation.md",
+    "Dissertation sur le rire.md",
+    "La structure d'un paragraphe argumentatif.md",
+    "Untitled.md",
+    "Scite/brain diseases/Brain diseases presentation (en).md",
+    "Scite/brain diseases/Brain Diseases.md",
+    "Scite/brain diseases/Brain Diseases Notes.md",
+    "English/random Essay.md",
+    "Deutsch/Direkte und indirekte rede.md"
+  ]
+}

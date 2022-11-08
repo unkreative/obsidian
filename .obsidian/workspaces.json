@@ -1,0 +1,157 @@
+{
+  "workspaces": {
+    "Default.": {
+      "main": {
+        "id": "6b56b046836812a9",
+        "type": "split",
+        "children": [
+          {
+            "id": "3ffd690083a40eba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e470ed3504168a43",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "11db5e23e2e3faa2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Scite/brain diseases/Brain Diseases.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "884c564c4895eb93",
+        "type": "split",
+        "children": [
+          {
+            "id": "6b609e0711170483",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9bb7acd0ebab9042",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "87f03dda335eab19",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "dd136fe8665a053a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "fef9cb2caeea965b",
+        "type": "split",
+        "children": [
+          {
+            "id": "a29ea714c8e18807",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f8e5f1594ad18eab",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Scite/brain diseases/Brain Diseases.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "640a7f2c8fb246d1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Scite/brain diseases/Brain Diseases.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "02cc0b3064d893ec",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "12e4e0cd37c9145d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Scite/brain diseases/Brain Diseases.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "ribbon": {
+        "mostRecentAction": ""
+      },
+      "active": "11db5e23e2e3faa2"
+    }
+  },
+  "active": "Default."
+}
