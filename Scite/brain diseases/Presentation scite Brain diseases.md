@@ -2,9 +2,7 @@
 theme: consult
 
 ---
-
-## Les maladies dégénératives du cerveau et leurs effets sur le sommeil
-
+## Les maladies dégénératives du cerveau et leurs effets sur le sommeil
 ###### Lou Sergonne
 ---
 
@@ -46,7 +44,7 @@ theme: consult
 - accumulation abnormale de protéines amyloid
 - inflammation
 - changements peuvent commencer décienne avant symptômes aparraissent
-- ceci une comparaison un cerveau sain et un cerveau affecté par Alzheimer
+- une comparaison un cerveau sain et un cerveau
 </grid>
 
 <grid drop="58 10">
@@ -54,13 +52,7 @@ theme: consult
 
 </grid>
 
-
-
 ---
-
-
-
-
 ## Les stades de la maladie d'Alzheimer
 
 
