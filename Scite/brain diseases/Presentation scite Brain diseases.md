@@ -14,7 +14,7 @@ theme: consult
 
 - Effets
 - Ce qui se passe dans le cerveau
-- Les stades de la maladie d'Alzheimer
+- Les stades de la maladie d'Alzheimera
 - L'effet de l'Alzheimer sur le sommeil
 
 ---
