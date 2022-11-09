@@ -7,7 +7,6 @@
 [[Presentation scite Brain diseases]]
 
 # Les maladies dégénératives du cerveau et leurs effets sur le sommeil
-
 ## Les effets du vieillissement sur le sommeil
 Il est courant que la qualité du sommeil des personnes âgées diminue fortement. Ces changements surviennent souvent en raison de modifications de l'horloge circadienne, l'"horloge maîtresse" de notre cerveau. La détérioration des cellules a un impact sur cette "horloge maîtresse" et peut également entraîner la perturbation du rythme circadien. Cela a un impact sur le moment où les gens ont faim, où le corps libère certaines hormones, où une personne se sent endormie ou alerte, etc.
 
