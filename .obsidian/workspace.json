@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (en).md",
+                "file": "Scite/brain diseases/Presentation scite Brain diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (en).md",
+                "file": "Scite/brain diseases/Presentation scite Brain diseases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (en).md"
+                "file": "Scite/brain diseases/Presentation scite Brain diseases.md"
               }
             }
           }
@@ -217,8 +217,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86f3b81f37029845",
+  "active": "607865c6aeb5fefc",
   "lastOpenFiles": [
+    "Scite/brain diseases/Brain diseases presentation (en).md",
     "Dissertation sur le rire.md",
     "Scite/brain diseases/Brain diseases presentation (fr).md",
     "Scite/brain diseases/Presentation scite Brain diseases.md",
@@ -226,7 +227,6 @@
     "yes.md",
     "Scite/brain diseases/Brain Diseases.md",
     "yess.md",
-    "Scite/brain diseases/Brain diseases presentation (en).md",
     "Scite/brain diseases/Brain Diseases Notes.md",
     "English/random Essay.md"
   ]
