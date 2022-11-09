@@ -4,64 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "01098c570601a492",
-        "type": "tabs",
-        "dimension": 24.728487886382624,
-        "children": [
-          {
-            "id": "607865c6aeb5fefc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scite/brain diseases/Presentation scite Brain diseases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11459d38392d4e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scite/brain diseases/Presentation scite Brain diseases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3543a82c8e1f17a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dissertation sur le rire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d6437243cfa7f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "43694d4962076596",
         "type": "tabs",
-        "dimension": 37.63575605680869,
+        "dimension": 50,
         "children": [
           {
             "id": "01bb5f89177fc530",
@@ -75,14 +20,22 @@
               }
             },
             "group": "63811d3bd2e9a67e"
+          },
+          {
+            "id": "b9ab595b95af766a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       },
       {
         "id": "5db662a7d4e5e274",
         "type": "tabs",
-        "dimension": 37.63575605680869,
+        "dimension": 50,
         "children": [
           {
             "id": "3b0c35521bc5f749",
@@ -162,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (fr).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -213,12 +162,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b0c35521bc5f749",
+  "active": "b9ab595b95af766a",
   "lastOpenFiles": [
+    "Scite/brain diseases/Brain diseases presentation (fr).md",
+    "Dissertation sur le rire.md",
     "Scite/brain diseases/Presentation scite Brain diseases.md",
     "Scite/brain diseases/Brain diseases presentation (en).md",
-    "Dissertation sur le rire.md",
-    "Scite/brain diseases/Brain diseases presentation (fr).md",
     "La structure d'un paragraphe argumentatif.md",
     "yes.md",
     "Scite/brain diseases/Brain Diseases.md",
