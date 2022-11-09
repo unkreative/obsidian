@@ -44,8 +44,12 @@
             "id": "9d6437243cfa7f5b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -168,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scite/brain diseases/Brain diseases presentation (fr).md"
+              }
             }
           }
         ]
