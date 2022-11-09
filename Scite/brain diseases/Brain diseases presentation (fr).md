@@ -6,6 +6,17 @@
 [[Brain diseases presentation (en)]]
 
 # Les maladies dégénératives du cerveau et leurs effets sur le sommeil
+
+## Les effets du vieillissement sur le sommeil
+Il est courant que la qualité du sommeil des personnes âgées diminue fortement. Ces changements surviennent souvent en raison de modifications de l'horloge circadienne, l'"horloge maîtresse" de notre cerveau. La détérioration des cellules a un impact sur cette "horloge maîtresse" et peut également entraîner la perturbation du rythme circadien. Cela a un impact sur le moment où les gens ont faim, où le corps libère certaines hormones, où une personne se sent endormie ou alerte, etc.
+
+D'autres changements concernent la production d'hormones, comme la mélatonine et la cortisone, qui peuvent également jouer un rôle dans la perturbation du sommeil des personnes âgées. 
+
+L'architecture du sommeil change également, les adultes se réveillant plus fréquemment. Les personnes âgées passent beaucoup plus de temps dans la phase d'éveil, ce qui peut également entraîner un sommeil fragmenté.
+
+L'idée que les personnes âgées ont besoin de moins de sommeil que les jeunes est vraie, jusqu'à un certain point. En fait, contrairement à l'opinion générale, les personnes âgées n'ont pas besoin de moins de sommeil que les jeunes de 20 ans. Les adultes ont besoin de la même quantité de sommeil de la vingtaine à la vieillesse. Les directives de la National Sleep Foundation recommandent aux personnes de plus de 65 ans de dormir plus de 8 heures.
+
+
 # Alzheimer
 L'Alzheimer est une maladie du cerveau qui modifie le cerveau de manière destructive et négative. Elle est fréquente chez les personnes âgées, environ 6 millions de personnes sont touchées aux États-Unis et leur âge est souvent supérieur à 65 ans.
 Je vais parler des effets, ce qui se passe dans le cerveau, les stade de la maladie d'Alzheimer et l'effet  de l'Alzheimer sur le sommeil.
