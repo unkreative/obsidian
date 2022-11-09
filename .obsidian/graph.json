@@ -4,7 +4,7 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -64,17 +64,10 @@
       }
     },
     {
-      "query": "path:_DelSyncFiles",
+      "query": "path:/Users/lousergonne/Documents/GitHub/obsidian/export",
       "color": {
         "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
+        "rgb": 16712106
       }
     }
   ],
@@ -88,6 +81,6 @@
   "repelStrength": 13.515625,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 1.1840956572798205,
-  "close": false
+  "scale": 0.14378455618487343,
+  "close": true
 }

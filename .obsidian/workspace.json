@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6febf778d0cc38a0",
+        "id": "c607166b529cbd78",
         "type": "tabs",
         "children": [
           {
-            "id": "f0d5baa5bb01b7ad",
+            "id": "9213fcd4f8dec42e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fef9cb2caeea965b",
@@ -129,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f0d5baa5bb01b7ad",
+  "active": "9213fcd4f8dec42e",
   "lastOpenFiles": [
+    "export/Presentation scite Brain diseases/plugin/chalkboard/img/blackboard.png",
     "export/Presentation scite Brain diseases/plugin/menu/CONTRIBUTING.md",
     "Scite/brain diseases/Brain diseases presentation (fr).md",
     "Dissertation sur le rire.md",
@@ -139,7 +139,6 @@
     "La structure d'un paragraphe argumentatif.md",
     "yes.md",
     "Scite/brain diseases/Brain Diseases.md",
-    "yess.md",
-    "Scite/brain diseases/Brain Diseases Notes.md"
+    "yess.md"
   ]
 }
