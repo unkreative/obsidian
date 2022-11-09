@@ -6,14 +6,18 @@
       {
         "id": "01098c570601a492",
         "type": "tabs",
-        "dimension": 83.29156223893067,
+        "dimension": 43.31103678929766,
         "children": [
           {
             "id": "607865c6aeb5fefc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Scite/brain diseases/Presentation scite Brain diseases.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -52,13 +56,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "43694d4962076596",
         "type": "tabs",
-        "dimension": 16.70843776106934,
+        "dimension": 56.68896321070234,
         "children": [
           {
             "id": "86f3b81f37029845",
@@ -172,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
+                "file": "Scite/brain diseases/Presentation scite Brain diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
+                "file": "Scite/brain diseases/Presentation scite Brain diseases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scite/brain diseases/Brain diseases presentation (fr).md"
+                "file": "Scite/brain diseases/Presentation scite Brain diseases.md"
               }
             }
           }
@@ -223,7 +226,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d6437243cfa7f5b",
+  "active": "607865c6aeb5fefc",
   "lastOpenFiles": [
     "Dissertation sur le rire.md",
     "Scite/brain diseases/Brain diseases presentation (fr).md",
