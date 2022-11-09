@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Deutsch",
@@ -55,6 +55,27 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:_DelSyncFiles",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:export",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +88,6 @@
   "repelStrength": 13.515625,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.03622446336193441,
-  "close": true
+  "scale": 1.4899504823472103,
+  "close": false
 }
