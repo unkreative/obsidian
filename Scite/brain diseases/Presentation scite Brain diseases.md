@@ -2,6 +2,20 @@
 theme: consult
 
 ---
+
+## Les effets du vieillissement sur le sommeil
+- qualité diminue fortement
+- modifications sur l'horloge interne (noyau suprachiasmatique (SCN))
+- changement de production d'hormones, comme mélatonine
+- architecture du sommeil change aussi
+	- passent moins de temps dans la phase paradoxal
+	- donc moins des phases plus profondes
+	- réveils nocturnes
+- personnes âgées ont besoin de moins de sommeil
+	- vraie  jusqu'à un certain point
+	- les personnes âgées n'ont pas besoin moins sommeil que  jeunes de 20 ans
+	- National Sleep fdn. recommandent au personnes +65 ans de dormir plus que 8h
+---
 ## Les maladies dégénératives du cerveau et leurs effets sur le sommeil
 ###### Lou Sergonne
 ---
@@ -187,20 +201,6 @@ theme: consult
 - le cerveau rétrécit de 5% chaque décennie
 - cause: mort des neurones
 - le rétrécissement affecte également les fonctions 
-
----
-## Les effets du vieillissement sur le sommeil
-- qualité diminue fortement
-- modifications sur l'horloge interne (noyau suprachiasmatique (SCN))
-- changement de production d'hormones, comme mélatonine
-- architecture du sommeil change aussi
-	- passent moins de temps dans la phase paradoxal
-	- donc moins des phases plus profondes
-	- réveils nocturnes
-- personnes âgées ont besoin de moins de sommeil
-	- vraie  jusqu'à un certain point
-	- les personnes âgées n'ont pas besoin moins sommeil que  jeunes de 20 ans
-	- National Sleep fdn. recommandent au personnes +65 ans de dormir plus que 8h
 
 ---
 # merci pour l'attention. Avez-vous des questions?

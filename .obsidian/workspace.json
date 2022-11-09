@@ -69,6 +69,14 @@
             }
           },
           {
+            "id": "6a703bd7c0281455",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          },
+          {
             "id": "01bb5f89177fc530",
             "type": "leaf",
             "state": {
@@ -211,40 +219,7 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "3c34b3e2054f9316",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3b302b48f562600f",
-        "type": "window",
-        "children": [
-          {
-            "id": "8c3e0d3a8435d7d5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6a703bd7c0281455",
-                "type": "leaf",
-                "state": {
-                  "type": "reveal-preview-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 645,
-        "y": 43,
-        "width": 600,
-        "height": 835,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6a703bd7c0281455",
+  "active": "11459d38392d4e9a",
   "lastOpenFiles": [
     "La structure d'un paragraphe argumentatif.md",
     "Scite/brain diseases/Presentation scite Brain diseases.md",
