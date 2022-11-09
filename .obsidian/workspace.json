@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/brain diseases/Presentation scite Brain diseases.md",
+                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/brain diseases/Presentation scite Brain diseases.md",
+                "file": "Scite/brain diseases/Brain diseases presentation (fr).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scite/brain diseases/Presentation scite Brain diseases.md"
+                "file": "Scite/brain diseases/Brain diseases presentation (fr).md"
               }
             }
           }
@@ -219,10 +219,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11459d38392d4e9a",
+  "active": "01bb5f89177fc530",
   "lastOpenFiles": [
-    "La structure d'un paragraphe argumentatif.md",
     "Scite/brain diseases/Presentation scite Brain diseases.md",
+    "La structure d'un paragraphe argumentatif.md",
     "yes.md",
     "Scite/brain diseases/Brain Diseases.md",
     "yess.md",

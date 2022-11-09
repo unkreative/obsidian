@@ -3,6 +3,9 @@ theme: consult
 
 ---
 
+## Les maladies dégénératives du cerveau et leurs effets sur le sommeil
+###### Lou Sergonne
+---
 ## Les effets du vieillissement sur le sommeil
 - qualité diminue fortement
 - modifications sur l'horloge interne (noyau suprachiasmatique (SCN))
@@ -16,10 +19,6 @@ theme: consult
 	- les personnes âgées n'ont pas besoin moins sommeil que  jeunes de 20 ans
 	- National Sleep fdn. recommandent au personnes +65 ans de dormir plus que 8h
 ---
-## Les maladies dégénératives du cerveau et leurs effets sur le sommeil
-###### Lou Sergonne
----
-
 <grid drop="17 -15">
 
 ## Alzheimer

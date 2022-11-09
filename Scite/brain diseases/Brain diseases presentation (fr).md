@@ -81,11 +81,5 @@ On pourrait comparer la perte de coordination à un chantier de construction, o�
 ## Qu'arrive-t-il à la taille du cerveau ?
 Il a été découvert que le cerveau rétrécit de 5 % par décennie, et que le rythme augmente avec l'âge. Ce rétrécissement est dû à la mort des neurones.
 
-## Les effets du vieillissement sur le sommeil
-Il est courant que la qualité du sommeil des personnes âgées diminue fortement. Ces changements surviennent souvent en raison de modifications de l'horloge circadienne, l'"horloge maîtresse" de notre cerveau. La détérioration des cellules a un impact sur cette "horloge maîtresse" et peut également entraîner la perturbation du rythme circadien. Cela a un impact sur le moment où les gens ont faim, où le corps libère certaines hormones, où une personne se sent endormie ou alerte, etc.
 
-D'autres changements concernent la production d'hormones, comme la mélatonine et la cortisone, qui peuvent également jouer un rôle dans la perturbation du sommeil des personnes âgées. 
-
-L'architecture du sommeil change également, les adultes se réveillant plus fréquemment. Les personnes âgées passent beaucoup plus de temps dans la phase d'éveil, ce qui peut également entraîner un sommeil fragmenté.
-
-L'idée que les personnes âgées ont besoin de moins de sommeil que les jeunes est vraie, jusqu'à un certain point. En fait, contrairement à l'opinion générale, les personnes âgées n'ont pas besoin de moins de sommeil que les jeunes de 20 ans. Les adultes ont besoin de la même quantité de sommeil de la vingtaine à la vieillesse. Les directives de la National Sleep Foundation recommandent aux personnes de plus de 65 ans de dormir plus de 8 heures.
+# merci pour l'attention. Avez-vous des questions?
