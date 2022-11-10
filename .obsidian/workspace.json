@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9ed5a3584c66078",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artso/Qu'est-ce qu'une dictature?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artso/Qu'est-ce qu'une dictature?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artso/Qu'est-ce qu'une dictature?.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +141,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9213fcd4f8dec42e",
+  "active": "f9ed5a3584c66078",
   "lastOpenFiles": [
+    "Artso/Qu'est-ce qu'une dictature?.md",
     "export/Presentation scite Brain diseases/plugin/chalkboard/img/blackboard.png",
     "export/Presentation scite Brain diseases/plugin/menu/CONTRIBUTING.md",
     "Scite/brain diseases/Brain diseases presentation (fr).md",
@@ -146,7 +152,6 @@
     "Scite/brain diseases/Brain diseases presentation (en).md",
     "La structure d'un paragraphe argumentatif.md",
     "yes.md",
-    "Scite/brain diseases/Brain Diseases.md",
-    "yess.md"
+    "Scite/brain diseases/Brain Diseases.md"
   ]
 }
