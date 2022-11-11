@@ -53,7 +53,29 @@ Table names.house (connection database)
 | -------- | -------- |
 | id       | int      |
 | name_id  | int      |
-| house_id | int      | 
+| house_id | int      |
+
+This is how it would look like:
+
+Table Names
+| id  | first_name | second_name |
+| --- | ---------- | ----------- |
+| 1   | Lou        | Sergonne    |
+| 2   | José       | Santos      |
+| 3   | Sven       | Bordez      | 
+
+Table houses
+| id  | names      |
+| --- | ---------- |
+| 1   | larochette |
+
+Table names.house
+| id  | name_id | house_id |
+| --- | ------- | -------- |
+| 1   | 1       | 1        |
+| 2   | 2       | 1        |
+| 3   | 3       | 1        |
+
 
 php framework: symfony
 
