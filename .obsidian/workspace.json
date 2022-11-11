@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "696e7a7ca55e9bc6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trape/Trape notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trape/Trape notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Trape/Trape notizen.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +153,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9ed5a3584c66078",
+  "active": "696e7a7ca55e9bc6",
   "lastOpenFiles": [
+    "Trape/Trape notizen.md",
     "Scite/scite kuer/Scite kuer.md",
     "Artso/Qu'est-ce qu'une dictature?.md",
     "export/Presentation scite Brain diseases/plugin/chalkboard/img/blackboard.png",
@@ -159,7 +164,6 @@
     "Dissertation sur le rire.md",
     "Scite/brain diseases/Presentation scite Brain diseases.md",
     "Scite/brain diseases/Brain diseases presentation (en).md",
-    "La structure d'un paragraphe argumentatif.md",
-    "yes.md"
+    "La structure d'un paragraphe argumentatif.md"
   ]
 }

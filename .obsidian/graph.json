@@ -4,7 +4,7 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -64,7 +64,7 @@
       }
     },
     {
-      "query": "path:/Users/lousergonne/Documents/GitHub/obsidian/export",
+      "query": "",
       "color": {
         "a": 1,
         "rgb": 16712106
@@ -81,6 +81,6 @@
   "repelStrength": 13.515625,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 1.1694230082027495,
-  "close": true
+  "scale": 1.3660710366871385,
+  "close": false
 }
