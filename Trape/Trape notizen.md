@@ -96,4 +96,5 @@ unfank vun docker ass interessant
 
 # mini conclusion
 en full stack developer ass hart, well en alles selwer muss maan an en sain eegent team ass, wat och natierlech seng fierdeeler mat sech brengt. et dauert laang eng app ze entweckelen zumools wann en en unfänger ass an nach all d prinzipen leiren an techniken dei en sou unwennt
-main standart ass 
+ech well main standart un den entreprisenstandart unpeilen, dat heescht konkret dass ech alles wei an enger firma maan, vum design bis zum programmeiren. Dat ass eng gudd übung fier en bessen ze leiren wei d'entreprisen fonktioneieren an wat en do alles muss kennen
+
