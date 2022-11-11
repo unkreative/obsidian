@@ -24,3 +24,6 @@ habe dann die farben etwas leichter gemacht und dann war es ungefähr  gut.
 so langsam, während dem designen mit  den farben, fange  ich an ein framework zu suchen dass die daten von der database schon für mich importiert, 
 
 warscheinlich werde ich in den ferien mit auf das büro  meines vaters gehen und dort den programmierer fragen wie ich meine database soll aufbauen. 
+
+
+php framework: symfony
