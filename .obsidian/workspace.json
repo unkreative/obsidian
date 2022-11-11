@@ -35,6 +35,18 @@
             "id": "fe4a67f5cda7f11c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c173edba0a51e22",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -90,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 376.5
   },
   "right": {
     "id": "fef9cb2caeea965b",
@@ -106,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md"
+              }
             }
           }
         ]
@@ -155,6 +171,8 @@
   },
   "active": "fe4a67f5cda7f11c",
   "lastOpenFiles": [
+    "export/ah.md",
+    "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
     "Trape/Trape notizen.md",
     "Scite/scite kuer/Scite kuer.md",
     "Artso/Qu'est-ce qu'une dictature?.md",
@@ -162,8 +180,6 @@
     "export/Presentation scite Brain diseases/plugin/menu/CONTRIBUTING.md",
     "Scite/brain diseases/Brain diseases presentation (fr).md",
     "Dissertation sur le rire.md",
-    "Scite/brain diseases/Presentation scite Brain diseases.md",
-    "Scite/brain diseases/Brain diseases presentation (en).md",
-    "La structure d'un paragraphe argumentatif.md"
+    "Scite/brain diseases/Presentation scite Brain diseases.md"
   ]
 }
