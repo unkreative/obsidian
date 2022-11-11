@@ -4,16 +4,9 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:export",
-      "color": {
-        "a": 1,
-        "rgb": 16711850
-      }
-    },
     {
       "query": "path:Deutsch",
       "color": {
@@ -33,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:export",
+      "color": {
+        "a": 1,
+        "rgb": 13764492
       }
     },
     {
@@ -95,6 +95,6 @@
   "repelStrength": 13.515625,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.05314079941189949,
+  "scale": 0.059610203814279665,
   "close": false
 }

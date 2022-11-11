@@ -42,17 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2c173edba0a51e22",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md"
+              }
             }
           }
         ]
@@ -165,7 +161,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c173edba0a51e22",
+  "active": "fe4a67f5cda7f11c",
   "lastOpenFiles": [
     "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
     "export/ah.md",
