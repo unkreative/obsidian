@@ -64,7 +64,21 @@
       }
     },
     {
-      "query": "",
+      "query": "file:.html",
+      "color": {
+        "a": 1,
+        "rgb": 16712106
+      }
+    },
+    {
+      "query": "file:.js",
+      "color": {
+        "a": 1,
+        "rgb": 16712106
+      }
+    },
+    {
+      "query": "file:.css",
       "color": {
         "a": 1,
         "rgb": 16712106
@@ -81,6 +95,6 @@
   "repelStrength": 13.515625,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 1.3660710366871385,
+  "scale": 8,
   "close": false
 }
