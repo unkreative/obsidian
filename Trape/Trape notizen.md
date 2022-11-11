@@ -25,5 +25,16 @@ so langsam, während dem designen mit  den farben, fange  ich an ein framework z
 
 warscheinlich werde ich in den ferien mit auf das büro  meines vaters gehen und dort den programmierer fragen wie ich meine database soll aufbauen. 
 
+databasenstructur
+
+structur mat der hellef vum haer aubertin opgebaut an erweidert. 
+
+-> grouss tabellen mat daten, an dann eng tabell dei d'ids verbennt 
+-> connectiounen zweschen sache
+
+ex. 
+
 
 php framework: symfony
+
+ungefaangen odcker ze benotzen fier op 3 pcen selwescht schaffen ze kennen
