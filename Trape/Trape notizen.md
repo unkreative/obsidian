@@ -45,7 +45,16 @@ Table houses
 | name | dataytpe |
 | ---- | -------- |
 | id   | int      |
-| name | varchar  | 
+| name | varchar  |
+|      |          |
+
+Table names.house (connection database)
+| name     | dataytpe |
+| -------- | -------- |
+| id       | int      |
+| name_id  | int      |
+| house_id | int      | 
+
 php framework: symfony
 
 ungefaangen odcker ze benotzen fier op 3 pcen selwescht schaffen ze kennen
