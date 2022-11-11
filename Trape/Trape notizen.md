@@ -16,7 +16,11 @@ kleng problemer mat alignement, an schaffen mat elementer ass neideg
 elementer sinn einfach stecker dei en kann rem benotzen an dei en dann just eng keier muss änneren amplaatz bei all instanz vun dem object
 zum beispill eng navbar, dei sollt op all sait sinn an wann en dei lo änneren geif misst en alles eenzel änneren, mee mat elementer kann en et just eng keier änneren an dann ass et iwwerall sou wei en et gäeren hätt
 
-icons ze wielen dei alles sou duerstellen wei en et gäeren hätt, unfanksproble ass dass en user net erkennt wat dat icon heescht an dofier sech net z
+icons ze wielen dei alles sou duerstellen wei en et gäeren hätt, unfanksproble ass dass en user net erkennt wat dat icon heescht an dofier sech net zerechtfennt. icons hunn ech vun bootstrap oder aaner gratis icon saiten. 
+
+Den login beraich ass nach eng baustell, well ech net wees wat ech keint dohinner maan fier d platz opzefellen
+
+muss en nach eng keier alles mei genau maan wei et soll ausgesinn an alles mei spezifesch an final opzesetzen
 # anfangen mit dem design, farben etc.
 pro entreprise ein set von farben, die man in den einstellungen kann einstellen. 
 
@@ -87,3 +91,9 @@ php framework: symfony
 ungefaangen odcker ze benotzen fier op 3 pcen selwescht schaffen ze kennen
 
 unfank vun docker ass interessant
+
+
+
+# mini conclusion
+en full stack developer ass hart, well en alles selwer muss maan an en sain eegent team ass, wat och natierlech seng fierdeeler mat sech brengt. et dauert laang eng app ze entweckelen zumools wann en en unfänger ass an nach all d prinzipen leiren an techniken dei en sou unwennt
+main standart ass 
