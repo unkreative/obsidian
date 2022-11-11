@@ -32,9 +32,20 @@ structur mat der hellef vum haer aubertin opgebaut an erweidert.
 -> grouss tabellen mat daten, an dann eng tabell dei d'ids verbennt 
 -> connectiounen zweschen sache
 
-ex. 
+ex.
+Table Names
+| name        | datatype |
+| ----------- | -------- |
+| id          | int      |
+| first_name  | varchar  |
+| second_name | varchar  |
+|             |          |
 
-
+Table houses
+| name | dataytpe |
+| ---- | -------- |
+| id   | int      |
+| name | varchar  | 
 php framework: symfony
 
 ungefaangen odcker ze benotzen fier op 3 pcen selwescht schaffen ze kennen
