@@ -1,7 +1,7 @@
 #trape 
 #notizen
 
-# Figma
+# Design, Figma
 ## wireframe,
 wireframe ass dofier do fier ze kukken wat wou hinner kennt an wei et am beschten ausgesait
 
@@ -12,6 +12,11 @@ probleme mit dem design:
 nach dem ausbau der verschiedenen seiten, habe ich herausgefunden  dass  ich unnötiges eingeplant habe, 
 Mein klient möchte nur  das  sehen was sie auch eingeben
 
+kleng problemer mat alignement, an schaffen mat elementer ass neideg
+elementer sinn einfach stecker dei en kann rem benotzen an dei en dann just eng keier muss änneren amplaatz bei all instanz vun dem object
+zum beispill eng navbar, dei sollt op all sait sinn an wann en dei lo änneren geif misst en alles eenzel änneren, mee mat elementer kann en et just eng keier änneren an dann ass et iwwerall sou wei en et gäeren hätt
+
+icons ze wielen dei alles sou duerstellen wei en et gäeren hätt, unfanksproble ass dass en user net erkennt wat dat icon heescht an dofier sech net z
 # anfangen mit dem design, farben etc.
 pro entreprise ein set von farben, die man in den einstellungen kann einstellen. 
 
@@ -25,7 +30,7 @@ so langsam, während dem designen mit  den farben, fange  ich an ein framework z
 
 warscheinlich werde ich in den ferien mit auf das büro  meines vaters gehen und dort den programmierer fragen wie ich meine database soll aufbauen. 
 
-databasenstructur
+## databasenstructur
 
 structur mat der hellef vum haer aubertin opgebaut an erweidert. 
 
@@ -80,3 +85,5 @@ Table names.house
 php framework: symfony
 
 ungefaangen odcker ze benotzen fier op 3 pcen selwescht schaffen ze kennen
+
+unfank vun docker ass interessant
