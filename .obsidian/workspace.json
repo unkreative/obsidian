@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e1465bfd04bc455",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 376.5,
+    "collapsed": true
   },
   "right": {
     "id": "fef9cb2caeea965b",
@@ -110,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +166,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe4a67f5cda7f11c",
+  "active": "2e1465bfd04bc455",
   "lastOpenFiles": [
+    "Scite/brain diseases/Presentation scite Brain diseases.md",
     "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
     "export/ah.md",
     "Trape/Trape notizen.md",
@@ -171,7 +177,6 @@
     "export/Presentation scite Brain diseases/plugin/chalkboard/img/blackboard.png",
     "export/Presentation scite Brain diseases/plugin/menu/CONTRIBUTING.md",
     "Scite/brain diseases/Brain diseases presentation (fr).md",
-    "Dissertation sur le rire.md",
-    "Scite/brain diseases/Presentation scite Brain diseases.md"
+    "Dissertation sur le rire.md"
   ]
 }
