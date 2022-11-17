@@ -94,6 +94,10 @@ numm, fiernumm, iam, class, tuteur_id
 
 staff 
 
+
+
+entreprisen
+
 ungefaangen odcker ze benotzen fier op 3 pcen selwescht schaffen ze kennen
 
 unfank vun docker ass interessant
