@@ -89,6 +89,10 @@ Table names.house
 php framework: symfony
 oder och net well dat net dem entsprecht wat ech gäeren maan well
 
+tabell
+numm, fiernumm, iam, class, tuteur_id
+
+staff 
 
 ungefaangen odcker ze benotzen fier op 3 pcen selwescht schaffen ze kennen
 
