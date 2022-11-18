@@ -45,8 +45,12 @@
             "id": "9f774d81a558519e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Index_obsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Index_obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Index_obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Index_obsidian.md"
+              }
             }
           }
         ]
@@ -165,15 +173,15 @@
   },
   "active": "9f774d81a558519e",
   "lastOpenFiles": [
+    "export/_Index_export.md",
+    "export/Presentation scite Brain diseases/_Index_Presentation scite Brain diseases.md",
+    "export/Presentation scite Brain diseases/plugin/customcontrols/_Index_of_customcontrols.md",
+    "export/Presentation scite Brain diseases/plugin/chart/_Index_of_chart.md",
+    "export/Presentation scite Brain diseases/plugin/chart/_Index_chart.md",
     "export/Presentation scite Brain diseases/plugin/customcontrols/_Index_customcontrols.md",
     "export/Presentation scite Brain diseases/plugin/_Index_plugin.md",
     "Scite/cannabis/Cannabis Notizen.md",
-    "export/Presentation scite Brain diseases/plugin/chart/_Index_chart.md",
     "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_of_chalkboard.md",
-    "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_chalkboard.md",
-    "export/Presentation scite Brain diseases/plugin/menu/_Index_of_menu.md",
-    "export/Presentation scite Brain diseases/plugin/menu/_Index_menu.md",
-    "Francais/_Index_Francais.md",
-    "Deutsch/Résume von Der richter und sein henker.md"
+    "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_chalkboard.md"
   ]
 }
