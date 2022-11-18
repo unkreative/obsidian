@@ -9,7 +9,7 @@
   "folderEmoji": ":card_index_dividers:",
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": false,
-  "foldersExcluded": "",
+  "foldersExcluded": "export/\nexport/*",
   "foldersIncluded": "",
   "sortOrder": "asc",
   "addSquareBrackets": true,
