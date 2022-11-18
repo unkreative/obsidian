@@ -32,31 +32,17 @@
             }
           },
           {
-            "id": "fe4a67f5cda7f11c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2e1465bfd04bc455",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Trape/Trape notizen.md",
-                "mode": "source",
-                "source": false
+                "file": "Scite/scite kuer/5. Changement d'heure.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trape/Trape notizen.md",
+                "file": "Scite/scite kuer/5. Changement d'heure.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trape/Trape notizen.md",
+                "file": "Scite/scite kuer/5. Changement d'heure.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trape/Trape notizen.md"
+                "file": "Scite/scite kuer/5. Changement d'heure.pdf"
               }
             }
           }
@@ -176,15 +162,15 @@
   },
   "active": "2e1465bfd04bc455",
   "lastOpenFiles": [
-    "Scite/brain diseases/Presentation scite Brain diseases.md",
-    "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
-    "export/ah.md",
     "Trape/Trape notizen.md",
+    "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
+    "Scite/scite kuer/5. Changement d'heure.pdf",
+    "Scite/scite kuer/5. Changement d_heure.pdf",
     "Scite/scite kuer/Scite kuer.md",
+    "Scite/brain diseases/Presentation scite Brain diseases.md",
+    "export/ah.md",
     "Artso/Qu'est-ce qu'une dictature?.md",
     "export/Presentation scite Brain diseases/plugin/chalkboard/img/blackboard.png",
-    "export/Presentation scite Brain diseases/plugin/menu/CONTRIBUTING.md",
-    "Scite/brain diseases/Brain diseases presentation (fr).md",
-    "Dissertation sur le rire.md"
+    "export/Presentation scite Brain diseases/plugin/menu/CONTRIBUTING.md"
   ]
 }
