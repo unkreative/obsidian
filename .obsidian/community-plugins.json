@@ -9,5 +9,6 @@
   "obsidian-git",
   "obsidian-dynamic-toc",
   "table-editor-obsidian",
-  "zoottelkeeper-obsidian-plugin"
+  "zoottelkeeper-obsidian-plugin",
+  "find-unlinked-files"
 ]

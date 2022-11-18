@@ -42,7 +42,7 @@
             }
           },
           {
-            "id": "9f774d81a558519e",
+            "id": "6553d207282d4750",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -163,8 +163,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f774d81a558519e",
+  "active": "6553d207282d4750",
   "lastOpenFiles": [
+    "Scite/scite kuer/5. Changement d'heure.pdf",
     "_Index_obsidian.md",
     "export/_Index_export.md",
     "export/Presentation scite Brain diseases/_Index_Presentation scite Brain diseases.md",
@@ -173,7 +174,6 @@
     "export/Presentation scite Brain diseases/plugin/chart/_Index_chart.md",
     "export/Presentation scite Brain diseases/plugin/customcontrols/_Index_customcontrols.md",
     "export/Presentation scite Brain diseases/plugin/_Index_plugin.md",
-    "Scite/cannabis/Cannabis Notizen.md",
-    "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_of_chalkboard.md"
+    "Scite/cannabis/Cannabis Notizen.md"
   ]
 }
