@@ -1,8 +1,5 @@
  #cannabis 
  #scite  
-[[Cannabis text]]
-[[Cannabis Notizen]]
-[[The difference between THC and CBD]]
 
 
 https://www.youtube.com/watch?v=P-aYLEaNiIA

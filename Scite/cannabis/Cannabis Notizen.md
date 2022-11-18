@@ -1,11 +1,5 @@
 (cannabis, mariuana, thc)
 
- #scite
- #cannabis
-[[Cannabis text]]
-[[Cannabis Notizen]]
-
-
 Les consequences de thc sur le sommeil. 
 thc = tetro hydro cannabinol
 

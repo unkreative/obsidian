@@ -1,8 +1,3 @@
-#scite
-#cannabis 
-[[Cannabis text]]
-[[Cannabis Notizen]]
-
 
 # La différence entre le THC et le CBD
 ## qu'est-ce c'est le THC

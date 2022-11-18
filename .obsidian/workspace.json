@@ -45,12 +45,24 @@
             "id": "9f774d81a558519e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scite/cannabis/Cannabis Notizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30474bcced011b79",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -79,9 +91,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#francais",
+                "query": "tag:#brain-diseases",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -96,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f774d81a558519e",
+  "active": "30474bcced011b79",
   "lastOpenFiles": [
+    "Scite/cannabis/presentatioun notizen.md",
+    "Scite/cannabis/The difference between THC and CBD.md",
+    "Scite/brain diseases/Brain diseases quellen.md",
+    "Scite/cannabis/Cannabis Notizen.md",
+    "Scite/scite kuer/La lumière bleue ? Une question de longueur d’onde !.md",
+    "Scite/cannabis/Cannabis text.md",
+    "Scite/cannabis/Cannabis quellen.md",
+    "Scite/brain diseases/Brain diseases presentation (fr).md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
-    "export/Presentation scite Brain diseases/plugin/menu/_Index_menu.md",
-    "_Index_obsidian.md",
-    "export/Presentation scite Brain diseases/plugin/_Index_of_plugin.md",
-    "oh ye.md",
-    "Scite/scite kuer/Scite kuer.md",
-    "Scite/_Index_of_Scite.md",
-    "Scite/scite kuer/_Index_of_scite kuer.md",
-    "Scite/cannabis/_Index_of_cannabis.md",
-    "Deutsch/_Index_of_Deutsch.md"
+    "export/Presentation scite Brain diseases/plugin/menu/_Index_menu.md"
   ]
 }

@@ -1,6 +1,7 @@
 #scite 
 #scitekuer 
-![[4. La lumiÃ¨re bleue et caractÃ©ristiques d'ondes.docx]]
+
+
 La lumière bleue a une influence importante sur notre sommeil : elle bloque la production de mélatonine, une hormone qui joue un des rôles clé pourl’endormissement. Cette lumière bleue provient du soleil, des lumières LED, des écrans, mais qu’est-ce que la différence entre cette lumière, et d’autres lumière ?
 
 La lumière se propage sous forme d’ondes (Welle, transport d'energie) transversales. Les caractéristiques d’une onde permettent de la classer dans des catégories très différentes. Une de ces catégories est la lumière visible : c’est l’ensemble des ondes que les neurones dans nos yeux peuvent capter et interpréter. Dans ce spectre visible tombe la lumière bleue, mais comment est-elle caractérisée ?
