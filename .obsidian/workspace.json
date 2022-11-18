@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Deutsch/_Index_of_Deutsch.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "right": {
     "id": "fef9cb2caeea965b",
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Deutsch/_Index_of_Deutsch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Deutsch/_Index_of_Deutsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md"
+                "file": "Deutsch/_Index_of_Deutsch.md"
               }
             }
           }
@@ -184,7 +183,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c233a72a213e880",
+  "active": "cae5a30fcedcc226",
   "lastOpenFiles": [
     "Scite/scite kuer/Scite kuer.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
