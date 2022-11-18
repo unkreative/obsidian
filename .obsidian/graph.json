@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file:_Index_",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
       "query": "path:Deutsch",
       "color": {
         "a": 1,
@@ -92,9 +99,9 @@
   "lineSizeMultiplier": 1.08673909505208,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 13.515625,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.5773400127182207,
-  "close": true
+  "scale": 0.18841106912082614,
+  "close": false
 }

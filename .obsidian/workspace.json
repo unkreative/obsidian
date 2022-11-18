@@ -47,26 +47,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/_Index_of_Deutsch.md",
+                "file": "_Index_obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c233a72a213e880",
+            "id": "d17349ea6587d658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7398b16987f35c33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "export/Presentation scite Brain diseases/plugin/menu/_Index_menu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/_Index_of_Deutsch.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/_Index_of_Deutsch.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/_Index_of_Deutsch.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -183,17 +195,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cae5a30fcedcc226",
+  "active": "d17349ea6587d658",
   "lastOpenFiles": [
+    "_Index_obsidian.md",
+    "export/Presentation scite Brain diseases/plugin/menu/_Index_menu.md",
     "Scite/scite kuer/Scite kuer.md",
+    "Scite/_Index_of_Scite.md",
+    "Scite/scite kuer/_Index_of_scite kuer.md",
+    "Scite/cannabis/_Index_of_cannabis.md",
+    "Deutsch/_Index_of_Deutsch.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
     "Trape/Trape notizen.md",
-    "export/Presentation scite Brain diseases/plugin/customcontrols/README.md",
-    "Scite/scite kuer/5. Changement d_heure.pdf",
-    "Scite/brain diseases/Presentation scite Brain diseases.md",
-    "export/ah.md",
-    "Artso/Qu'est-ce qu'une dictature?.md",
-    "export/Presentation scite Brain diseases/plugin/chalkboard/img/blackboard.png",
-    "export/Presentation scite Brain diseases/plugin/menu/CONTRIBUTING.md"
+    "export/Presentation scite Brain diseases/plugin/customcontrols/README.md"
   ]
 }
