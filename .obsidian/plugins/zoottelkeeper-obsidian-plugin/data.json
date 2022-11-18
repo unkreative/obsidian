@@ -10,7 +10,7 @@
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": false,
   "foldersExcluded": "export/\nexport/*\ndiseases/plugin/chart/\nexport/plugin\nUsers/lousergonne/Documents/GitHub/obsidian/export/*\nexport/*",
-  "foldersIncluded": "",
+  "foldersIncluded": "Artso/\nDeutsch/\nEnglish/\nFrancais/\nMath/\nScite/\nTrape/",
   "sortOrder": "asc",
   "addSquareBrackets": true,
   "embedSubIndex": true,

@@ -2,7 +2,9 @@
   "outputFileName": "orphaned files output",
   "disableWorkingLinks": false,
   "directoriesToIgnore": [],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    "_Index_obsidian"
+  ],
   "fileTypesToIgnore": [],
   "linksToIgnore": [],
   "tagsToIgnore": [],

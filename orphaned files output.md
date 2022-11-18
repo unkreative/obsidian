@@ -1,4 +1,4 @@
-- [[_Index_obsidian.md]]
+
 - [[ah.md]]
 - [[_Index_plugin.md]]
 - [[zoom.js]]

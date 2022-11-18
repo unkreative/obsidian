@@ -64,9 +64,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "520f36954045c391",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,11 +187,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61f3f69f62666d65",
+  "active": "520f36954045c391",
   "lastOpenFiles": [
+    "_Index_obsidian.md",
     "orphaned files output.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
-    "_Index_obsidian.md",
     "export/_Index_export.md",
     "export/Presentation scite Brain diseases/_Index_Presentation scite Brain diseases.md",
     "export/Presentation scite Brain diseases/plugin/customcontrols/_Index_of_customcontrols.md",
