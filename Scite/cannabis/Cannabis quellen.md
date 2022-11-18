@@ -1,5 +1,3 @@
- #cannabis 
- #scite  
 
 
 https://www.youtube.com/watch?v=P-aYLEaNiIA

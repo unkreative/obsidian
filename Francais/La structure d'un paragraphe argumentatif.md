@@ -1,5 +1,3 @@
-#francais 
-#dissertation
 
 On peut rire de tout, mais pas avec tout le monde
 <b style="color:red">= la thèse</b>     /on doit rire de tout

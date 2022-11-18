@@ -1,5 +1,3 @@
-#scite 
-#brain-diseases
 
 # Dementia
 https://alzheimer.ca/en/about-dementia/what-alzheimers-disease/how-alzheimers-disease-changes-brain

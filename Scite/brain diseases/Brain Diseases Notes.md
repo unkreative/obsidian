@@ -1,8 +1,3 @@
-#scite 
-#brain-diseases
-[[Brain diseases quellen]]
-[[Scite/brain diseases/Brain Diseases]]
-[[Brain diseases presentation (en)]]
 # General 
 Alzheimer's Disease.
 Dementias.

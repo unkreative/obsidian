@@ -1,5 +1,4 @@
-#cannabis 
-#scite
+
 
 
 Cannabis also known as Marijuana, THC, etc. has a number of effects on the brain. For one, it alters the levels of chemicals in the brain, which can have a positive or negative effect on cognition and memory. It’s also been shown to increase the production of endocannabinoids, which are chemicals that help to regulate mood and feelings.

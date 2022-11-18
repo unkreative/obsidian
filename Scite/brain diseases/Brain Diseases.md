@@ -1,8 +1,3 @@
-#scite 
-#brain-diseases 
-[[Brain diseases quellen]]
-[[Les maladies dégénératives du cerveau et leurs effets sur le sommeil.docx]]
-[[Degenerative brain diseases and their effect on sleep.docx]]
 # Alzheimer
 Alzheimer is a disease that slowly destroys memory, thinking skills, eventually the ability to perform day-to-day tasks. Most people with Alzheimer symptoms are older, and most of them over 65 years old. In America, experts suggest that more than 6 million may have Alzheimer or have dementia caused by Alzheimer.
 

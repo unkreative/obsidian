@@ -1,5 +1,3 @@
-#deutsch 
-
 # Modi (Aussageweise)
 1) Indikativ (Wirklichkeitsform)
 2) Konjunktiv (Möglichkeitsform)

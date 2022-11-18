@@ -1,4 +1,4 @@
-#artso 
+
 ## Comment est le terme dictateur créé
 Le terme "dictateur" a une histoire longue et complexe et est né à Rome. Il vient du terme latin dictatura, qui désignait à l'origine un dirigeant temporaire nommé par le Sénat en cas d'urgence. 
 Le premier dictateur romain, Lucius Cornelius Sulla, a été nommé en 82 avant Jésus-Christ. Il est devenu si puissant qu'il a pu mettre en œuvre une série de réformes qui ont transformé la République romaine en un État autocratique.

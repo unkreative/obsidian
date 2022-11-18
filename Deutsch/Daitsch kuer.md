@@ -1,4 +1,3 @@
-#deutsch 
 # Zeitangabe
 Donnerstag 3.11.1948 (K. 1-2)
 Freitag 4.11.1948 (K. 3-7)

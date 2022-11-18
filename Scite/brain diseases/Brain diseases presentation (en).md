@@ -1,9 +1,3 @@
-#scite 
-#brain-diseases 
-[[Brain diseases quellen]]
-[[Scite/brain diseases/Brain Diseases]]
-[[Brain Diseases Notes]]
-[[Brain diseases presentation (fr)]]
 # Alzheimer
 Alzheimer is a brain disease which changes the brain in a destructive and negative way. And is common under the elderly people, around 6 million people are affected in the us and their age is often above 65.
 

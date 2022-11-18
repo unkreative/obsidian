@@ -1,6 +1,3 @@
-#scite 
-#brain-diseases 
-
 
 # Les maladies dégénératives du cerveau et leurs effets sur le sommeil
 ## Les effets du vieillissement sur le sommeil

@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#brain-diseases",
+                "query": "tag:#deutsch",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,15 +177,15 @@
   },
   "active": "30474bcced011b79",
   "lastOpenFiles": [
-    "Scite/cannabis/presentatioun notizen.md",
-    "Scite/cannabis/The difference between THC and CBD.md",
-    "Scite/brain diseases/Brain diseases quellen.md",
-    "Scite/cannabis/Cannabis Notizen.md",
-    "Scite/scite kuer/La lumière bleue ? Une question de longueur d’onde !.md",
-    "Scite/cannabis/Cannabis text.md",
-    "Scite/cannabis/Cannabis quellen.md",
-    "Scite/brain diseases/Brain diseases presentation (fr).md",
-    "Scite/scite kuer/5. Changement d'heure.pdf",
-    "export/Presentation scite Brain diseases/plugin/menu/_Index_menu.md"
+    "Francais/_Index_Francais.md",
+    "Deutsch/Résume von Der richter und sein henker.md",
+    "Deutsch/Direkte und indirekte rede.md",
+    "Deutsch/Daitsch kuer.md",
+    "English/English essays.md",
+    "English/random Essay.md",
+    "Artso/Qu'est-ce qu'une dictature?.md",
+    "Artso/Artso.md",
+    "Artso/_Index_of_Artso.md",
+    "Francais/La structure d'un paragraphe argumentatif.md"
   ]
 }

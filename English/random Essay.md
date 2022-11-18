@@ -1,6 +1,3 @@
-#english
-#essay 
-
 # The most important thing(essay 1, nOt GoOd EnOuGh)
 When it comes to life, many things are important to us. Our family, our friends, as well as school and even our hobbies (running, playing an instrument). However the most important thing for us can either be, staying at home and having a nice, chill time, or even going to parties, where the music is loud and everyone is having a great time dancing. Our mission for this essay is to reflect on what our interests are, and what to consider what is important in our life and what we want to take forward with it.
 
