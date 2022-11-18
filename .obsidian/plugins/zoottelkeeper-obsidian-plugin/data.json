@@ -9,7 +9,7 @@
   "folderEmoji": ":card_index_dividers:",
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": false,
-  "foldersExcluded": "export/\nexport/*\nexport/plugin\nUsers/lousergonne/Documents/GitHub/obsidian/export/*",
+  "foldersExcluded": "export/\nexport/*\ndiseases/plugin/chart/\nexport/plugin\nUsers/lousergonne/Documents/GitHub/obsidian/export/*\nexport/*",
   "foldersIncluded": "",
   "sortOrder": "asc",
   "addSquareBrackets": true,

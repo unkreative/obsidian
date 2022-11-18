@@ -45,24 +45,12 @@
             "id": "9f774d81a558519e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scite/cannabis/Cannabis Notizen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30474bcced011b79",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30474bcced011b79",
+  "active": "9f774d81a558519e",
   "lastOpenFiles": [
-    "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_of_chalkboard.md",
+    "export/Presentation scite Brain diseases/plugin/customcontrols/_Index_customcontrols.md",
     "export/Presentation scite Brain diseases/plugin/_Index_plugin.md",
+    "Scite/cannabis/Cannabis Notizen.md",
+    "export/Presentation scite Brain diseases/plugin/chart/_Index_chart.md",
+    "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_of_chalkboard.md",
     "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_chalkboard.md",
     "export/Presentation scite Brain diseases/plugin/menu/_Index_of_menu.md",
     "export/Presentation scite Brain diseases/plugin/menu/_Index_menu.md",
     "Francais/_Index_Francais.md",
-    "Deutsch/Résume von Der richter und sein henker.md",
-    "Deutsch/Direkte und indirekte rede.md",
-    "Deutsch/Daitsch kuer.md",
-    "English/English essays.md"
+    "Deutsch/Résume von Der richter und sein henker.md"
   ]
 }
