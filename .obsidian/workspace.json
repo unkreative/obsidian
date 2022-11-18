@@ -45,12 +45,8 @@
             "id": "9f774d81a558519e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Index_obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Index_obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Index_obsidian.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,6 +165,7 @@
   },
   "active": "9f774d81a558519e",
   "lastOpenFiles": [
+    "_Index_obsidian.md",
     "export/_Index_export.md",
     "export/Presentation scite Brain diseases/_Index_Presentation scite Brain diseases.md",
     "export/Presentation scite Brain diseases/plugin/customcontrols/_Index_of_customcontrols.md",
@@ -181,7 +174,6 @@
     "export/Presentation scite Brain diseases/plugin/customcontrols/_Index_customcontrols.md",
     "export/Presentation scite Brain diseases/plugin/_Index_plugin.md",
     "Scite/cannabis/Cannabis Notizen.md",
-    "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_of_chalkboard.md",
-    "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_chalkboard.md"
+    "export/Presentation scite Brain diseases/plugin/chalkboard/_Index_of_chalkboard.md"
   ]
 }
