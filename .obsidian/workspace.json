@@ -4,77 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c607166b529cbd78",
+        "id": "4d810ba7a8755cde",
         "type": "tabs",
         "children": [
           {
-            "id": "9213fcd4f8dec42e",
+            "id": "39a35a6dfbd42a86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ab6f4c6cf87055f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artso/Qu'est-ce qu'une dictature?.md",
+                "file": "Francais/Dissertation sur le rire.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f9ed5a3584c66078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trape/Trape notizen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e1465bfd04bc455",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scite/scite kuer/5. Changement d'heure.pdf"
-              }
-            }
-          },
-          {
-            "id": "6553d207282d4750",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4f78fc5306d0ab10",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "61f3f69f62666d65",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "520f36954045c391",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Francais/Dissertation sur le rire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Francais/Dissertation sur le rire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Francais/Dissertation sur le rire.md"
+              }
             }
           }
         ]
@@ -187,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "520f36954045c391",
+  "active": "9bb7acd0ebab9042",
   "lastOpenFiles": [
+    "Francais/Untitled.md",
+    "Artso/Qu'est-ce qu'une dictature?.md",
+    "Trape/Trape notizen.md",
+    "Scite/scite kuer/5. Changement d'heure.pdf",
     "_Index_obsidian.md",
     "orphaned files output.md",
-    "Scite/scite kuer/5. Changement d'heure.pdf",
     "export/_Index_export.md",
     "export/Presentation scite Brain diseases/_Index_Presentation scite Brain diseases.md",
     "export/Presentation scite Brain diseases/plugin/customcontrols/_Index_of_customcontrols.md",
-    "export/Presentation scite Brain diseases/plugin/chart/_Index_of_chart.md",
-    "export/Presentation scite Brain diseases/plugin/chart/_Index_chart.md",
-    "export/Presentation scite Brain diseases/plugin/customcontrols/_Index_customcontrols.md",
-    "export/Presentation scite Brain diseases/plugin/_Index_plugin.md"
+    "export/Presentation scite Brain diseases/plugin/chart/_Index_of_chart.md"
   ]
 }
