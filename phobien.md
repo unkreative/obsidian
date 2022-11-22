@@ -22,5 +22,5 @@ alors, les diccicuiltés qu'un personne de LGBT peut croiser sont
 
 ## que risquent les aggresseurs de personnes LGBT
 Les aggresseurs de LGBT risquent d'être punis avec une amende de 1500€ maximum
-
-«commise envers une personne ou un groupe de personnes a raison de leur sexe, de leur orientation sexuelle ou identité de genre »d'une amende de 1500 euros maximum.
+«commise envers une personne ou un groupe de personnes a raison de leur sexe, de leur orientation sexuelle ou identité de genre »
+Et selon l'article 222-13 du même code, les violences commises en raison d'identité ou de discrimination d'une personne LGBT peuvent resoudre en une amende de 45 000€ ou d'etre emprisionner pour 3 années et recevoir
