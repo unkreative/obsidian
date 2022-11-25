@@ -129,6 +129,10 @@ connecotr datenbase och gefellt mat random daten
 
 fellen lo nach eng keier no, dei connector databasen well of dei selwescht sachen geschitt sinn an ze vill klassen do sinn
 
+hat ze weineg test daten angestallt an zuelen verwiesselt
+
+epuer daten waren null, do war iergendeen fehler bei den nimm, muss en fixen
+
 
 
 
