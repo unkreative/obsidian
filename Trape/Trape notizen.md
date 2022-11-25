@@ -125,7 +125,9 @@ feier ze testen mol
 10 haiser
 stuff + tuteur nach net implementeiert
 
-connecotr datenbase och gefellt mat rando
+connecotr datenbase och gefellt mat random daten
+
+fellen lo nach eng keier no, dei connector databasen well of dei selwescht sachen geschitt sinn an ze vill klassen do sinn
 
 
 
