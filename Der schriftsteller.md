@@ -1,4 +1,3 @@
-
 - alt
 - ungeduldig
 - unhöflich
@@ -13,16 +12,13 @@
 - kleidungsstil
 	- dunkel
 	- geschlossen
-unbarmherzig
-
-liebt die polizisten nicht
-aus der schweitz
-, angezogen
-eitel
-bekannter von gastmann
-
-
-konsumiert zigarillos
-er lässt fragen im raum stehen, oder stellt eine gegenfrage
-weicht/vermeidet das antworten von Bärlach
-redet in rätseln
+- unbarmherzig
+- liebt die polizisten nicht
+- kommt aus der schweitz
+- eitel
+- bekannter von gastmann
+- distanziert, mysteriös?
+	- er lässt fragen im raum stehen, oder stellt eine gegenfrage
+	- weicht/vermeidet das antworten von Bärlach
+	- redet in rätseln
+- konsumiert zigarillos
