@@ -1,14 +1,28 @@
 
-alt
-unhöflich, wegen des nicht aufstehens beim eintritt der polizisten
+- alt
+- ungeduldig
+- unhöflich
+	- wegen des nicht aufstehens beim eintritt der polizisten
+- unterschätzt
+	- möchte ernst aufgenommen werden
+	- wird nicht ernst genommen
+	- fühlt sich unterschätzt
+- aufmerksamkeits defizit
+	- schweift gerne ab
+	- ablenkbar 
+- kleidungsstil
+	- dunkel
+	- geschlossen
 unbarmherzig
-schweift gerne ab, ablenkbar, aufmerksamkeits defizit
+
 liebt die polizisten nicht
 aus der schweitz
-dunkel, geschlossen, angezogen
+, angezogen
 eitel
 bekannter von gastmann
-möchte ernst aufgenommen werden
-ungeduldig
+
+
 konsumiert zigarillos
-er lässt fragen im raum stehen, 
+er lässt fragen im raum stehen, oder stellt eine gegenfrage
+weicht/vermeidet das antworten von Bärlach
+redet in rätseln
