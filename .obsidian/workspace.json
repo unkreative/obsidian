@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ded8ddd25fac6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "baillement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/scite kuer/coma.md",
+                "file": "baillement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/scite kuer/coma.md",
+                "file": "baillement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scite/scite kuer/coma.md"
+                "file": "baillement.md"
               }
             }
           }
@@ -181,8 +193,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9bb7acd0ebab9042",
+  "active": "2ded8ddd25fac6d8",
   "lastOpenFiles": [
+    "Scite/scite kuer/coma.md",
     "Scite/scite kuer/jetlag.md",
     "LGBT-phobie.md",
     "Francais/Dissertation sur le rire.md",
@@ -191,7 +204,6 @@
     "Trape/Trape notizen.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
     "_Index_obsidian.md",
-    "orphaned files output.md",
-    "export/_Index_export.md"
+    "orphaned files output.md"
   ]
 }
