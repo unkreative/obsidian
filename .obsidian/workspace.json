@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e83045edd04f3572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baillement.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baillement.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "baillement.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -193,8 +205,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ded8ddd25fac6d8",
+  "active": "e83045edd04f3572",
   "lastOpenFiles": [
+    "baillement.md",
     "Scite/scite kuer/coma.md",
     "Scite/scite kuer/jetlag.md",
     "LGBT-phobie.md",
@@ -203,7 +216,6 @@
     "Artso/Qu'est-ce qu'une dictature?.md",
     "Trape/Trape notizen.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
-    "_Index_obsidian.md",
-    "orphaned files output.md"
+    "_Index_obsidian.md"
   ]
 }
