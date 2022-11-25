@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LGBT-phobie.md",
+                "file": "Francais/LGBT-phobie.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baillement.md",
+                "file": "Scite/scite kuer/baillement.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der schriftsteller.md",
+                "file": "Trape/Trape notizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Der schriftsteller.md",
+                "file": "Trape/Trape notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Der schriftsteller.md",
+                "file": "Trape/Trape notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Der schriftsteller.md"
+                "file": "Trape/Trape notizen.md"
               }
             }
           }
@@ -207,15 +207,15 @@
   },
   "active": "e83045edd04f3572",
   "lastOpenFiles": [
-    "baillement.md",
+    "Deutsch/Der schriftsteller.md",
+    "Scite/scite kuer/baillement.md",
     "Scite/scite kuer/coma.md",
     "Scite/scite kuer/jetlag.md",
-    "LGBT-phobie.md",
+    "Francais/LGBT-phobie.md",
     "Francais/Dissertation sur le rire.md",
     "Francais/Untitled.md",
     "Artso/Qu'est-ce qu'une dictature?.md",
     "Trape/Trape notizen.md",
-    "Scite/scite kuer/5. Changement d'heure.pdf",
-    "_Index_obsidian.md"
+    "Scite/scite kuer/5. Changement d'heure.pdf"
   ]
 }

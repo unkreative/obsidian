@@ -113,6 +113,20 @@ ech well main standart un den entreprisenstandart unpeilen, dat heescht konkret 
 
 
 
+hunn lo ungefaangen mat programmeieren, benotzen momentant bootstrap an php op localhost,
+
+bootstrap mecht d liewen mei einfach bei verschiddenen saachen, mee muss et nach verbesseren (leiren wei en et benotzt an wou)
+
+databasen structur ass lo och am asaatz mat test daten, mat mockaroo gemat, en tool dat random daten genereiert, 
+feier ze testen mol
+1000 schüler
+50 classen
+20 entreprisen
+10 haiser
+stuff + tuteur nach net implementeiert
+
+connecotr datenbase och gefellt mat rando
+
 
 
 
