@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "einleitung, lineare erörterung.md",
+                "file": "Deutsch/einleitung, lineare erörterung.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "einleitung, lineare erörterung.md",
+                "file": "Deutsch/einleitung, lineare erörterung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "einleitung, lineare erörterung.md",
+                "file": "Deutsch/einleitung, lineare erörterung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "einleitung, lineare erörterung.md"
+                "file": "Deutsch/einleitung, lineare erörterung.md"
               }
             }
           }
@@ -217,7 +217,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be790e8b754521ae",
+  "active": "9bb7acd0ebab9042",
   "lastOpenFiles": [
     "Trape/Trape notizen.md",
     "Deutsch/Der schriftsteller.md",

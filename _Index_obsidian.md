@@ -5,7 +5,6 @@
  ![[Francais/_Index_Francais|_Index_Francais]]
  ![[Scite/_Index_Scite|_Index_Scite]]
  ![[Trape/_Index_Trape|_Index_Trape]]
- [[einleitung, lineare erörterung|einleitung, lineare erörterung]]
  [[export/_Index_export|_Index_export]]
  [[Math/_Index_Math|_Index_Math]]
  [[orphaned files output|orphaned files output]]
