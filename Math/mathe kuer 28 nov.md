@@ -92,5 +92,3 @@ a' & c'
 delta_x / delta = x 
 delta_y / delta = y 
 
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
