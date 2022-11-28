@@ -82,10 +82,14 @@ c' & b'
 \end{vmatrix}
 
 Δ_y = ac' - a'c = \begin{vmatrix}
-a & a'\\
-c' & b'
+a & c\\
+a' & c'
 \end{vmatrix}
+
+(x;y)= ({Δ_x}/Δ; {Δ_y}/Δ)
 %34o$$%34c
 ```
+delta_x / delta = x 
+delta_y / delta = y 
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+üben
