@@ -17,9 +17,21 @@ a'ax + a'by = a'c
 (a'b-a'b)y = a'c - ac'
 
 <=>
-a'ax + a'by = a'c
-y = {a'c- ac'}/{a'b-ab'}
+\{a'ax + a'by = a'c
+ y = {a'c- ac'}/{a'b-ab'}
 %34o$$%34c
+\}
 
 
+<=>
+ab'x + bb'y = b'c
+-a'bx - bb'y = -bc'
+
+<=>(1+2)
+(ab'-a'b)x = b'c - bc'
+-a'bx - bb'y = -bc'
+
+<=> 
+x = {b'c - bc'}/{ab'-a'b}
+-a'bx - bb'y = -bc'
 ```
