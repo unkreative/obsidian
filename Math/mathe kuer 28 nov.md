@@ -9,9 +9,17 @@ ax + by = c'
 
 <=>
 a'ax + a'by = a'c
--a'ax - ab^y = -a'a
+-a'ax - ab^y = -c'a
 
+<=>
+a'ax + a'by = a'c
+(1 + 2)
+(a'b-a'b)y = a'c - ac'
+
+<=>
+a'ax + a'by = a'c
+y = {a'c- ac'}/{a'b-ab'}
 %34o$$%34c
-```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+
+```
