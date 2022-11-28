@@ -34,4 +34,10 @@ ab'x + bb'y = b'c
 <=> 
 x = {b'c - bc'}/{ab'-a'b}
 -a'bx - bb'y = -bc'
+
+S = \{({b'c -bc'}/{ab'-a'b}; {a'c - ac'}/{a'b-ab'})\} * 1 = {-1}/{-1}
+
+
+= \{({b'c -bc'}/{ab'-a'b}; {a'c - ac'}/{ab'-a'b})\}
+
 ```
