@@ -5,11 +5,11 @@
 %34o$$%34c
 ||{"id":166722548948}||
 ax + by = c
-ax + by = c'
+a'x + b'y = c'
 
 <=>
 a'ax + a'by = a'c
--a'ax - ab^y = -c'a
+-a'ax - ab'y = -c'a
 
 <=>
 a'ax + a'by = a'c
@@ -40,4 +40,24 @@ S = \{({b'c -bc'}/{ab'-a'b}; {a'c - ac'}/{a'b-ab'})\} * 1 = {-1}/{-1}
 
 = \{({b'c -bc'}/{ab'-a'b}; {a'c - ac'}/{ab'-a'b})\}
 
+```
+
+ab' =/ a'b !
+sinon = ...
+dann sinn d'dénominateuren d'selwescht
+
+```math
+
+ax + by = c
+a'x + b'y = c'
+
+
+%34o$$%34c
+||{"id":1162776280448}||
+
+\begin{matrix}
+a & b & c\\
+a' & b' & c'
+\end{matrix}
+%34o$$%34c
 ```
