@@ -8,99 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39a35a6dfbd42a86",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ab6f4c6cf87055f",
+            "id": "ec4582ea210fac74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francais/Dissertation sur le rire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a73ef1c43771d53c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francais/LGBT-phobie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65644394c9423768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scite/scite kuer/jetlag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70961bb06889e156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scite/scite kuer/coma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ded8ddd25fac6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scite/scite kuer/baillement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e83045edd04f3572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trape/Trape notizen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be790e8b754521ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/einleitung, lineare erörterung.md",
+                "file": "Math/mathe kuer 28 nov.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/einleitung, lineare erörterung.md",
+                "file": "Math/mathe kuer 28 nov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/einleitung, lineare erörterung.md",
+                "file": "Math/mathe kuer 28 nov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/einleitung, lineare erörterung.md"
+                "file": "Math/mathe kuer 28 nov.md"
               }
             }
           }
@@ -217,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9bb7acd0ebab9042",
+  "active": "ec4582ea210fac74",
   "lastOpenFiles": [
+    "Deutsch/einleitung, lineare erörterung.md",
     "Trape/Trape notizen.md",
-    "Deutsch/Der schriftsteller.md",
     "Scite/scite kuer/baillement.md",
     "Scite/scite kuer/coma.md",
     "Scite/scite kuer/jetlag.md",
     "Francais/LGBT-phobie.md",
     "Francais/Dissertation sur le rire.md",
-    "Francais/Untitled.md",
-    "Artso/Qu'est-ce qu'une dictature?.md",
-    "Scite/scite kuer/5. Changement d'heure.pdf"
+    "Math/mathe kuer 28 nov.md",
+    "Deutsch/Der schriftsteller.md",
+    "Francais/Untitled.md"
   ]
 }
