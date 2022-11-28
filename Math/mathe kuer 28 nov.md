@@ -42,9 +42,10 @@ S = \{({b'c -bc'}/{ab'-a'b}; {a'c - ac'}/{a'b-ab'})\} * 1 = {-1}/{-1}
 
 ```
 
-ab' =/ a'b !
-sinon = ...
 dann sinn d'dénominateuren d'selwescht
+
+ab' =/ a'b !
+sinon = .../0
 
 ```math
 
@@ -59,5 +60,32 @@ a'x + b'y = c'
 a & b & c\\
 a' & b' & c'
 \end{matrix}
+
+Δ = ab' - a'b 
+
 %34o$$%34c
 ```
+est appelé déterminant du système!
+```math
+%34o$$%34c
+||{"id":1377509779732}||
+
+
+Δ = ab' - a'b = \begin{vmatrix}
+a & b\\
+a' & b'
+\end{vmatrix}
+
+Δ_x = cb' - c'b = \begin{vmatrix}
+c & b\\
+c' & b'
+\end{vmatrix}
+
+Δ_y = ac' - a'c = \begin{vmatrix}
+a & a'\\
+c' & b'
+\end{vmatrix}
+%34o$$%34c
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
