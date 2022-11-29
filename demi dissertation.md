@@ -46,4 +46,12 @@ Par quelles expressions sont introduits les exemples ?
 - Ainsi
 - en effet
 - de fair
-- 
+
+
+
+
+A vous maintenant ! Rédigez la partie consacrée aux inconvénients du tourisme. Suivez les étapes suivantes :
+- cherchez d'abord 3 inconvénients du tourisme
+- illustrez ces arguments par des exemples
+- utilisez des mots de liaisons pour structurer votre partie "contre" et introduire vos exemples
+
