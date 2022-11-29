@@ -22,11 +22,11 @@ Le premier exemple est que l'industrie du tourisme met en place des infrastructu
 L'autre exemple est qu'on fait ces choses en groupe, et ca donne de plaisir au touriste.
 
 - Quel est le troisième argument ? 
-
+Le troisième argument est que les vacances sont une occasion pour découvrir le monde. 
 
 
 - Quels sont les exemples donnés ? 
-
+L'exemples donné est qu'il y a pas seulement l'opportunité de visiter des monuments historiques mais aussi d'interagir avec les inhabitants et apprendre leur réalité culturelle, économique et politique.
 
 Quels mots de liaison structurent cette partie de la dissertation ? 
 
