@@ -1,0 +1,13 @@
+
+Au cours du 20 siècle, le tourisme a pris un essor jamais connu auparavant.
+Grâce au développement et aux prix accessibles des moyens de transport, rejoindre l'autre bout du monde ne relève plus de l'impossible.
+Qui résiste à l'attrait de l'ailleurs et des grands départs ? Tous les ans, des milliers de gens se rendent à l'étranger, pour y passer leurs vacances. Les destinations sont de plus en plus éloignées, et souvent ces pays se situent en dehors de notre espace culturel.
+Cependant cet engouement pour les voyages ne présente pas que des avantages, mais peut entraîner aussi un certain nombre d'inconvénients.
+
+Tout d'abord, le tourisme représente pour bon nombre de personnes le moyen par excellence pour s'évader de leur train-train quotidien. Après une année de travail et de stress, il est en effet très agréable de prendre de la distance et de se détendre afin de refaire le plein d'énergie avant de se relancer dans la vie, souvent harassante, de tous les jours.
+Ainsi, pour beaucoup de gens, exténués par des mois et des mois de contraintes et d'obligations, passer quelques semaines en bord de mer en se prélassant sur une plage constitue un agrément non négligeable.
+De plus, au cours de nos vacances à l'étranger, il nous est loisible de pratiquer des activités peu courantes et presque inaccessibles dans notre propre pays.
+En effet, l'industrie du tourisme met en place des infrastructures permettant aux touristes de faire notamment de la voile ou de la plongée à des prix souvent abordables. S'adonner à de telles activités en compagnie d'autres gens passionnés ne fait qu'accroître le plaisir, plaisir dont nous ne pourrions guère jouir dans notre vie quotidienne.
+Enfin, les voyages à l'étranger constituent une occasion sans pareil pour découvrir des contrées inconnues, pour aller à la rencontre d'autres civilisations et cultures, expériences qui ne peuvent que nous enrichir, tant au niveau culturel que personnel.
+De fait, faire un voyage dans un pays comme l'Egypte ne fournit pas uniquement l'opportunité de visiter des monuments historiques incomparables, mais nous permet également, surtout si nous maîtrisons la langue, d'entrer en contact avec la population arabe et de mieux appréhender leur réalité culturelle, économique et politique.
+Si les avantages du tourisme sont indéniables comme nous venons de le voir à travers ces arguments, on ne peut cependant passer sous silence les inconvénients.

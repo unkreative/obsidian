@@ -55,3 +55,8 @@ A vous maintenant ! Rédigez la partie consacrée aux inconvénients du tourisme
 - illustrez ces arguments par des exemples
 - utilisez des mots de liaisons pour structurer votre partie "contre" et introduire vos exemples
 
+![[le tourisme avantages et inconvénients]]
+
+argument 1
+- la polluation, quelques places ou normalement pas beaucoup des gens traversent sont le paradis pour les touristes mais souffrent sous les touristes.
+- 
