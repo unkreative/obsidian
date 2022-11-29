@@ -14,13 +14,15 @@ les exemples données sont:
 - que le temps dans la vacance on peut relaxer et constitute un agrément non négligable
  
 - Quel est le deuxième argument ? 
-
+les déuxieme argument est que les vacances sont beaucoup plus à l'étranger et donc on peut faire des acitvités presque inaccessibles dans leur propre pays.
  
 
 - Quels sont les exemples donnés ? 
-
+Le premier exemple est que l'industrie du tourisme met en place des infrastructures pour garantir que les touristes peuvent faire ces acitvités à des prix souvent abordables.
+L'autre exemple est qu'on fait ces choses en groupe, et ca donne de plaisir au touriste.
 
 - Quel est le troisième argument ? 
+
 
 
 - Quels sont les exemples donnés ? 
