@@ -38,3 +38,7 @@ commencer par  la partie avec laquelle vous n'êtes pas d'accord
 pas d'avis personnel dans l'introduction et la partie principale
 l'avis personnel est suelement développé dans la conclusion
 
+# introduction
+3 étapes:
+- une accroche pour amener le sujet 
+- présenter
