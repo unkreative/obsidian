@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 376.5,
+    "collapsed": true
   },
   "right": {
     "id": "fef9cb2caeea965b",
@@ -197,7 +198,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9bb7acd0ebab9042",
+  "active": "25df792d4cdc8cbd",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Vieso/Les avantages et les inconvénients d'en procès impliquant un jury s'agit-t-il d'un. système plus juste que les système basé sur le verdict d'un juge?.md",
