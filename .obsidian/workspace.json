@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c02e7e0c11805741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La dissertation dialectique (pour ou contre).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "888926d385ab53dd",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "demi dissertation.md",
+                "file": "La dissertation dialectique (pour ou contre).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "demi dissertation.md",
+                "file": "La dissertation dialectique (pour ou contre).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "demi dissertation.md"
+                "file": "La dissertation dialectique (pour ou contre).md"
               }
             }
           }
@@ -161,9 +173,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e041e54c925543f",
+  "active": "c02e7e0c11805741",
   "lastOpenFiles": [
     "le tourisme avantages et inconvénients.md",
+    "La dissertation dialectique (pour ou contre).md",
     "demi dissertation.md",
     "Francais/La structure d'un paragraphe argumentatif.md",
     "Math/mathe kuer 28 nov.md",
@@ -171,7 +184,6 @@
     "Trape/Trape notizen.md",
     "Scite/scite kuer/baillement.md",
     "Scite/scite kuer/coma.md",
-    "Scite/scite kuer/jetlag.md",
-    "Francais/LGBT-phobie.md"
+    "Scite/scite kuer/jetlag.md"
   ]
 }
