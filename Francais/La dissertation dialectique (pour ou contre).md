@@ -41,4 +41,12 @@ l'avis personnel est suelement développé dans la conclusion
 # introduction
 3 étapes:
 - une accroche pour amener le sujet 
-- présenter
+- présenter le sujet et poser la problématiwue
+- annonce du plan dialectique (pour ou contre)
+
+doit rester géneral
+# conclusion
+2 étapes 
+- faire le bilan de l'argumentation
+- exprimer son avis personnel
+
