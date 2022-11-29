@@ -59,4 +59,10 @@ A vous maintenant ! Rédigez la partie consacrée aux inconvénients du tourisme
 
 argument 1
 - la polluation, quelques places ou normalement pas beaucoup des gens traversent sont le paradis pour les touristes mais souffrent sous les touristes.
-- 
+- Caño Cristales, Colombie
+	- populaire pour la fleuve a cinq couleurs
+	- les touristes ont  détruit l'écosystème, et le gouvernement devait restraindre l'access pour le laisser régénerer
+
+argument 2
+	polluiation d'air car les avions commerciau
+argument 3
