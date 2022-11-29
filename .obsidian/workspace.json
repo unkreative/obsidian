@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La dissertation dialectique (pour ou contre).md",
+                "file": "demi dissertation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La dissertation dialectique (pour ou contre).md",
+                "file": "demi dissertation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La dissertation dialectique (pour ou contre).md"
+                "file": "demi dissertation.md"
               }
             }
           }
@@ -173,11 +173,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c02e7e0c11805741",
+  "active": "6e041e54c925543f",
   "lastOpenFiles": [
+    "La dissertation dialectique (pour ou contre).md",
     "demi dissertation.md",
     "le tourisme avantages et inconvénients.md",
-    "La dissertation dialectique (pour ou contre).md",
     "Francais/La structure d'un paragraphe argumentatif.md",
     "Math/mathe kuer 28 nov.md",
     "Deutsch/einleitung, lineare erörterung.md",
