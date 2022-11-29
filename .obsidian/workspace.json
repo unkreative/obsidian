@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "demi dissertation.md",
+                "file": "Francais/demi dissertation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcd528efd3aee2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francais/dissertation thèmes.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La dissertation dialectique (pour ou contre).md",
+                "file": "Francais/La dissertation dialectique (pour ou contre).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "le tourisme avantages et inconvénients.md",
+                "file": "Francais/le tourisme avantages et inconvénients.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "demi dissertation.md",
+                "file": "Francais/dissertation thèmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "demi dissertation.md",
+                "file": "Francais/dissertation thèmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "demi dissertation.md"
+                "file": "Francais/dissertation thèmes.md"
               }
             }
           }
@@ -173,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e041e54c925543f",
+  "active": "dcd528efd3aee2d9",
   "lastOpenFiles": [
-    "La dissertation dialectique (pour ou contre).md",
-    "demi dissertation.md",
-    "le tourisme avantages et inconvénients.md",
+    "Francais/Dissertation sur le rire.md",
+    "Francais/dissertation thèmes.md",
+    "Francais/demi dissertation.md",
+    "Francais/La dissertation dialectique (pour ou contre).md",
+    "Francais/le tourisme avantages et inconvénients.md",
     "Francais/La structure d'un paragraphe argumentatif.md",
     "Math/mathe kuer 28 nov.md",
     "Deutsch/einleitung, lineare erörterung.md",
     "Trape/Trape notizen.md",
-    "Scite/scite kuer/baillement.md",
-    "Scite/scite kuer/coma.md",
-    "Scite/scite kuer/jetlag.md"
+    "Scite/scite kuer/baillement.md"
   ]
 }
