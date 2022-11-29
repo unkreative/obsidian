@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/mathe kuer 28 nov.md",
+                "file": "Francais/La structure d'un paragraphe argumentatif.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e041e54c925543f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "demi dissertation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "right": {
     "id": "fef9cb2caeea965b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/mathe kuer 28 nov.md",
+                "file": "demi dissertation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/mathe kuer 28 nov.md",
+                "file": "demi dissertation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/mathe kuer 28 nov.md"
+                "file": "demi dissertation.md"
               }
             }
           }
@@ -137,8 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec4582ea210fac74",
+  "active": "6e041e54c925543f",
   "lastOpenFiles": [
+    "Francais/La structure d'un paragraphe argumentatif.md",
+    "Math/mathe kuer 28 nov.md",
     "Deutsch/einleitung, lineare erörterung.md",
     "Trape/Trape notizen.md",
     "Scite/scite kuer/baillement.md",
@@ -146,8 +160,6 @@
     "Scite/scite kuer/jetlag.md",
     "Francais/LGBT-phobie.md",
     "Francais/Dissertation sur le rire.md",
-    "Math/mathe kuer 28 nov.md",
-    "Deutsch/Der schriftsteller.md",
-    "Francais/Untitled.md"
+    "Deutsch/Der schriftsteller.md"
   ]
 }
