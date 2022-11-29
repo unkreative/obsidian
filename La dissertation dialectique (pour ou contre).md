@@ -29,9 +29,6 @@ commencer par  la partie avec laquelle vous n'êtes pas d'accord
 .
 .
 .
-.
-.
-.
 
 %34o$$%34c
 ```
@@ -39,4 +36,4 @@ commencer par  la partie avec laquelle vous n'êtes pas d'accord
 2. le modéle du saladier plus "radicale"
 
 pas d'avis personnel dans l'introduction et la partie principale
-l'avis personnel est suelement développé
+l'avis personnel est suelement développé dans la conclusion
