@@ -7,3 +7,6 @@
 | les non-professionnels peuvent faire preuve de plus d'emphatie, ce qui est parfois  nécessaire | plus difficile de prendre une décision à plusieurs                                 |
 | peut-être plus d'objectivité pare qu'ils ne sont pas impliqués dans l'affaire                  | plus d'organisation pour trouver/constituter le jury                               |
 | une parité de genre, donc plus de neutralité                                                   |                                                                                    |
+
+
+## argumentation
