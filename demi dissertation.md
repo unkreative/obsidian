@@ -64,5 +64,8 @@ argument 1
 	- les touristes ont  détruit l'écosystème, et le gouvernement devait restraindre l'access pour le laisser régénerer
 
 argument 2
-	polluiation d'air car les avions commerciau
+- polluiation d'air car les avions et en général les transports pour aller en vacance  
+- Le tourisme est à l'origine de 5% des émissions mondiales de gaz à effet de serre
+
 argument 3
+
