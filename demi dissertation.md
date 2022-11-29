@@ -29,6 +29,21 @@ Le troisième argument est que les vacances sont une occasion pour découvrir le
 L'exemples donné est qu'il y a pas seulement l'opportunité de visiter des monuments historiques mais aussi d'interagir avec les inhabitants et apprendre leur réalité culturelle, économique et politique.
 
 Quels mots de liaison structurent cette partie de la dissertation ? 
+- argument 1
+	- Tout d'abord (pour commencer un argument)
+	- Après une (pour introduire un exemple)
+	- Ainsi (pour introduire le suivant example)
+- argument 2
+	- De plus (pour introduire l'argument suivant)
+	- en effet (pour introduire un example)
+- argument 3
+	- Enfin (pour introduire le dernier argument)
+	- De fair (pour introduire un exemple)
 
 
 Par quelles expressions sont introduits les exemples ?  
+- Après de
+- Ainsi
+- en effet
+- de fair
+- 
