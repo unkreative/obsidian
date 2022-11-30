@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trape/Trape notizen.md",
+                "file": "Francais/Dissertation sur le rire.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trape/Trape notizen.md",
+                "file": "Francais/Dissertation sur le rire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trape/Trape notizen.md",
+                "file": "Francais/Dissertation sur le rire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trape/Trape notizen.md"
+                "file": "Francais/Dissertation sur le rire.md"
               }
             }
           }
@@ -199,15 +199,15 @@
   },
   "active": "25df792d4cdc8cbd",
   "lastOpenFiles": [
-    "Vieso/Les avantages et les inconvénients d'en procès impliquant un jury s'agit-t-il d'un. système plus juste que les système basé sur le verdict d'un juge?.md",
-    "Untitled 1.md",
     "Francais/dissertation thèmes.md",
     "Francais/La dissertation dialectique (pour ou contre).md",
-    "Francais/demi dissertation.md",
-    "Francais/Dissertation sur le rire.md",
-    "Francais/le tourisme avantages et inconvénients.md",
     "Francais/La structure d'un paragraphe argumentatif.md",
-    "Math/mathe kuer 28 nov.md",
-    "Deutsch/einleitung, lineare erörterung.md"
+    "Francais/LGBTphobies.md",
+    "Francais/LGBT-phobie.md",
+    "Trape/Trape notizen.md",
+    "Francais/le tourisme avantages et inconvénients.md",
+    "Francais/demi dissertation.md",
+    "Vieso/Les avantages et les inconvénients d'en procès impliquant un jury s'agit-t-il d'un. système plus juste que les système basé sur le verdict d'un juge?.md",
+    "Untitled 1.md"
   ]
 }
