@@ -103,15 +103,11 @@ ungefaangen odcker ze benotzen fier op 3 pcen selwescht schaffen ze kennen
 unfank vun docker ass interessant
 
 
-
-
-
-
 # mini conclusion
 en full stack developer ass hart, well en alles selwer muss maan an en sain eegent team ass, wat och natierlech seng fierdeeler mat sech brengt. et dauert laang eng app ze entweckelen zumools wann en en unfänger ass an nach all d prinzipen leiren an techniken dei en sou unwennt
 ech well main standart un den entreprisenstandart unpeilen, dat heescht konkret dass ech alles wei an enger firma maan, vum design bis zum programmeiren. Dat ass eng gudd übung fier en bessen ze leiren wei d'entreprisen fonktioneieren an wat en do alles muss kennen
 
-
+# text data 
 
 hunn lo ungefaangen mat programmeieren, benotzen momentant bootstrap an php op localhost,
 
@@ -133,6 +129,17 @@ hat ze weineg test daten angestallt an zuelen verwiesselt
 
 epuer daten waren null, do war iergendeen fehler bei den nimm, muss en fixen
 
+## test setup (infrastructure )
+
+## programming the wireframe 
+
+## design settings (colors,  shades, etc.)
+
+## testing and  refactoring code
 
 
+## hosting database in cloud
 
+## hosting website
+
+## testing

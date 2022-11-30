@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vieso/Les avantages et les inconvénients d'en procès impliquant un jury s'agit-t-il d'un. système plus juste que les système basé sur le verdict d'un juge?.md",
+                "file": "Trape/Trape notizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "right": {
     "id": "fef9cb2caeea965b",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vieso/Les avantages et les inconvénients d'en procès impliquant un jury s'agit-t-il d'un. système plus juste que les système basé sur le verdict d'un juge?.md",
+                "file": "Trape/Trape notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vieso/Les avantages et les inconvénients d'en procès impliquant un jury s'agit-t-il d'un. système plus juste que les système basé sur le verdict d'un juge?.md",
+                "file": "Trape/Trape notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vieso/Les avantages et les inconvénients d'en procès impliquant un jury s'agit-t-il d'un. système plus juste que les système basé sur le verdict d'un juge?.md"
+                "file": "Trape/Trape notizen.md"
               }
             }
           }
@@ -200,8 +199,8 @@
   },
   "active": "25df792d4cdc8cbd",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Vieso/Les avantages et les inconvénients d'en procès impliquant un jury s'agit-t-il d'un. système plus juste que les système basé sur le verdict d'un juge?.md",
+    "Untitled 1.md",
     "Francais/dissertation thèmes.md",
     "Francais/La dissertation dialectique (pour ou contre).md",
     "Francais/demi dissertation.md",
