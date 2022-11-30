@@ -21,7 +21,7 @@ icons ze wielen dei alles sou duerstellen wei en et gäeren hätt, unfanksproble
 Den login beraich ass nach eng baustell, well ech net wees wat ech keint dohinner maan fier d platz opzefellen
 
 muss en nach eng keier alles mei genau maan wei et soll ausgesinn an alles mei spezifesch an final opzesetzen
-# anfangen mit dem design, farben etc.
+# start with  the  design, colors . etc 
 pro entreprise ein set von farben, die man in den einstellungen kann einstellen. 
 
 erste versuche, sehr schlecht, die farben waren viel zu schwer  und  passten ncioht  zusammen
@@ -29,7 +29,7 @@ erste versuche, sehr schlecht, die farben waren viel zu schwer  und  passten nci
 habe dann die farben etwas leichter gemacht und dann war es ungefähr  gut.
 
 
-# programmieren
+# code
 so langsam, während dem designen mit  den farben, fange  ich an ein framework zu suchen dass die daten von der database schon für mich importiert, 
 
 warscheinlich werde ich in den ferien mit auf das büro  meines vaters gehen und dort den programmierer fragen wie ich meine database soll aufbauen. 
@@ -107,7 +107,8 @@ unfank vun docker ass interessant
 en full stack developer ass hart, well en alles selwer muss maan an en sain eegent team ass, wat och natierlech seng fierdeeler mat sech brengt. et dauert laang eng app ze entweckelen zumools wann en en unfänger ass an nach all d prinzipen leiren an techniken dei en sou unwennt
 ech well main standart un den entreprisenstandart unpeilen, dat heescht konkret dass ech alles wei an enger firma maan, vum design bis zum programmeiren. Dat ass eng gudd übung fier en bessen ze leiren wei d'entreprisen fonktioneieren an wat en do alles muss kennen
 
-# text data 
+# 
+## test data 
 
 hunn lo ungefaangen mat programmeieren, benotzen momentant bootstrap an php op localhost,
 
