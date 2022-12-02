@@ -59,8 +59,10 @@
             "id": "38b7370ae26ae785",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Untitled/Picture 1.png"
+              }
             }
           },
           {
@@ -154,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled/Picture 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled/Picture 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled/Picture 1.png"
+              }
             }
           }
         ]
