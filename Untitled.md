@@ -1,0 +1,1 @@
+Ich denke, dass die entwicklung von Sozialen Netzwerken wie z.B. Facebook langfristig die Wahrnehmung von ziwischenmenschlichen Beziehungen verändert 
