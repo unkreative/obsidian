@@ -2,5 +2,8 @@
   "spellcheck": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "möglichkeit"
+  ]
 }
