@@ -1,1 +1,1 @@
-Ich denke, dass die entwicklung von Sozialen Netzwerken wie z.B. Facebook langfristig die Wahrnehmung von ziwischenmenschlichen Beziehungen verändert 
+Ich denke, dass die Entwicklung von sozialen Netzwerken wie z.B. Facebook langfristig die Wahrnehmung von zwischenmenschlichen Beziehungen verändert hat und diese auch weiter beeinflussen wird. 
