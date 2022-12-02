@@ -61,7 +61,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Untitled/Picture 1.png"
+                "file": "Picture 1.png"
               }
             }
           },
@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facebook mam Fänk Arthur Drews.md",
+                "file": "Deutsch/Facebook mam Fänk Arthur Drews.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quatar english.md",
+                "file": "English/quatar english.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quatar english.md",
+                "file": "English/quatar english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quatar english.md",
+                "file": "English/quatar english.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quatar english.md"
+                "file": "English/quatar english.md"
               }
             }
           }
@@ -233,9 +233,9 @@
   },
   "active": "f4cb712bbffa90fe",
   "lastOpenFiles": [
-    "Facebook mam Fänk Arthur Drews.md",
-    "quatar english.md",
-    "Untitled/Picture 1.png",
+    "Deutsch/Facebook mam Fänk Arthur Drews.md",
+    "English/quatar english.md",
+    "Picture 1.png",
     "Scite/scite kuer/groupe sanguins/Blutgruppen.md",
     "Scite/scite kuer/_Index_scite kuer.md",
     "Francais/Dissertation sur le rire.md",

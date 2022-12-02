@@ -1,0 +1,4 @@
+
+Fifa's decision to award Qatar the contest was controversial even in 2010. But with revelations over the treatment of migrant workers and the spotlighting of its anti-gay laws, concern has steadily mounted. The 2014 Winter Olympics in Sochi and 2018 World Cup did not bring rights improvements in Russia or China. Saudi Arabia is determined to win an Olympics. Allegations of corruption have long dogged the International Olympic Committee. Several national captains will wear rainbow armbands to support anti-discrimination campaign. The challenge posed by sportswashing won't truly be addressed unless international governing bodies undergo fundamental changes.
+
+
