@@ -16,3 +16,6 @@ It's impossible to disagree. The Qatar 2022 organizing committee have issued a c
 This will be a World Cup built on blood and played on corpses.
 
 The ecological disaster, this world cup brings with itself to the country is huge, throwaway stadiums, acclimatization for open stadiums, the massive water consumption that drain the water reserves, the massive transport costs and CO2 emissions. Guests are flown in from the emirates, where they reside in hotels, to watch the matches. For every match, they take the plane to attend the matches. They have to lodge in the Arabic Emirates because Qatar has not the necessary infrastructure to hold the millions of fans, and therefore they go to the neighboring states.
+
+
+the decision to let quatar host the wo
