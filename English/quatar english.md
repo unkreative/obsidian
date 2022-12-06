@@ -9,8 +9,10 @@ As most of us know the FIFA World Cup is a worldwide competition that happens ev
 
 
 
-According to theguardian.com, 15.021 migrant workers have died in construction in the  span of 9 years, since Qatar won the voting of the FIFA by bribing.
+According to theguardian.com, 15.021 migrant workers have died in construction in the span of 9 years, since Qatar won the voting of the FIFA by bribing. This is mainly due to the working conditions: no adequate safety equipment for working at heights and no protection from the intense heat and sunlight. Heart failure is therefore a frequent cause of death. 
 That would be bad enough, but the workers were often forced to operate in dreadful conditions.
-It's impossible to disagree. The Qatar 2022 organising committee have issued a charter apparently guaranteeing the safety of its workers, but one doubts whether the situation will improve dramatically, and the damage has surely already been done.
 
-This will be a World Cup built on blood.
+It's impossible to disagree. The Qatar 2022 organizing committee have issued a charter apparently guaranteeing the safety of its workers on the construction site, but one doubts whether the situation will improve dramatically, and the damage has surely already been done.
+This will be a World Cup built on blood and played on corpses.
+
+
