@@ -133,6 +133,13 @@ epuer daten waren null, do war iergendeen fehler bei den nimm, muss en fixen
 ## test setup (infrastructure )
 
 ## programming the wireframe 
+```math
+%34o$$%34c
+||{"id":1407458758758}||
+
+
+%34o$$%34c
+```
 
 ## design settings (colors,  shades, etc.)
 
