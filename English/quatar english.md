@@ -7,8 +7,6 @@ chabos wissen wer der babbo ist
 
 As most of us know the FIFA World Cup is a worldwide competition that happens every 4 years. Competition to host these events is normally fierce, as taking the FIFA World Cup to a country leads enormous economic gains through tourism, trade, broadcasting, foreign exchange, logistics etc., and is also a basis of great prestige for a current government. Countries that given the opportunity to host world cup by FIFA must portray the ability to control huge human and vehicle traffic. This mean that the country should have sufficient infrastructure, which include world-class roads, hotels, and sufficient power supply among many others, but in the case of Qatar this is not the case.
 
-
-
 According to theguardian.com, 15.021 migrant workers have died in construction in the span of 9 years, since Qatar won the voting of the FIFA by bribing. This is mainly due to the working conditions: no adequate safety equipment for working at heights and no protection from the intense heat and sunlight. Heart failure is therefore a frequent cause of death. As this is already bad enough, Qatar adds other measurements, conflicting with the human law. Research has shown that the already low wages are often not paid or paid late. In addition, those affected report that their identity papers have been taken away from them by their bosses. They could not leave the country if they wanted to. The construction site operators denied this and the whole situation is a form of modern slavery.
 That would be bad enough, but the workers were often forced to operate in dreadful conditions.
 
