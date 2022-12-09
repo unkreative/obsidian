@@ -1,4 +1,6 @@
 ## thema 1
+
+
 Verändern die sozialen Netzwerke unser Verständnis von Freundschaft?
 Wir leben in einer Welt wo man internationale Freundschaften ohne Problem führen kann, und obwohl man tausende kilometer entfernt kann man konstant mit der person in kontakt sein. 
 Diese einleitung wird sich um dieses Thema drehen und dem leser einen einblick in verschiedene argumente geben. 
