@@ -49,9 +49,9 @@ Watson finds out when he arrives in Devonshire that it is believed that a fugiti
 Dr. Mortimer goes home upon arrival, while Sir Henry and Watson meet the butler, Barrymore. In awe of his family's past, Sir Henry looks at the wall portraits. Given the melancholy atmosphere in Baskerville Hall, Sir Henry acknowledges his uncle's anxiety during dinner. Watson hears a woman crying that night. 
 
 Summary of Chapter 7.
-Watson and Sir Henry agree that in sunlight, the manor's atmosphere appears less ominous the next morning, but they both heard a woman sob the night before. They must be wrong, Barrymore claims, because his wife was not crying. However, Mrs. Barrymore's eyes are red and swollen, as if she had just cried, when Watson comes across them. Watson decides to make sure that the trick Holmes used to determine that Barrymore was in Devonshire actually worked as planned after pondering why Barrymore would lie and why his wife would cry. The postmaster's messenger, on the other hand, reveals that he gave Mrs. Barrymore the cable instead. 
+Watson and Sir Henry agree that in sunlight, the manor's atmosphere appears less ominous the next morning, but they both heard a woman sob the night before. However, Mrs. Barrymore's eyes are red and swollen, as if she had just cried, when Watson comes across them. Watson decides to make sure that the trick Holmes used to determine that Barrymore was in Devonshire actually worked as planned after pondering why Barrymore would lie and why his wife would cry. The postmaster's messenger, on the other hand, reveals that he gave Mrs. Barrymore the cable instead. 
 
-Watson meets Jack Stapleton, an entomologist on the lookout for butterflies, as he makes his way back to Baskerville Hall. Stapleton is aware of Holmes and Watson and seems interested in the case that he must be investigating; Watson, on the other hand, keeps his identity a secret. Stapleton describes the area, pointing out the dangers of the moor as well as the Neolithic stone hut ruins. When they watch from a distance as a pony drowns in Grimpen Mire, they feel the danger. A loud moan abruptly interrupts their conversation. Even though Stapleton asserts that it could just as easily be the sound of a rare bird, he suggests that the locals might attribute the sound to the hound. 
+Watson meets Jack Stapleton, an entomologist on the lookout for butterflies, as he makes his way back to Baskerville Hall.
 
 At the point when Stapleton pursues a butterfly, his sister, an extraordinary marvel, who seems to be her sibling, botches Watson for Sir Henry and cautions him to leave the region. Chapter 8: Watson discovers that Stapleton was a schoolmaster at Merripit House. Although Holmes only asked for the facts, Watson begins his report by describing the bleak and lonely moor. Watson continues, "The escaped convict has probably fled the area because he could not survive for that long without food." Beryl Stapleton's brother does not appear to agree with the romantic interest Sir Henry appears to have developed in her. Watson adds that Sir Henry apologized to Barrymore for asking him where he was when Holmes's cable arrived by giving him his old tweed suit. Despite Barrymore's wife's continued distress, Watson maintains his suspicion of her. Dr. Watson also says he met Mr. Frankland, a friendly but litigious man who uses a telescope to look for the escaped convict on the moor. 
 
@@ -71,3 +71,56 @@ Watson contemplates the case while taking a stroll on the moor the following day
 
 Barrymore informs Watson that Selden regards the man on the tor as a gentleman after seeing him among the stone huts. Watson, on the other hand, wonders if the man's sinister soul is filled with hatred because he is willing to hide in such an inhospitable location as the stone huts. He decides that finding out who the mysterious man on the tor is must be his new task.
 # chapter 10 to 15
+Chapter 11. The Man on the Tor 
+
+Watson pays Laura Lyons a visit. She acknowledges writing Sir Charles' letter. She claims that in order to meet Sir Charles before he left, she requested a private meeting that evening. She didn't go to Baskerville Hall even though she needed Sir Charles' financial assistance with her divorce because the support came from somewhere else that very evening.  
+
+Laura Lyons gets the impression from Watson that she is concealing something. He encounters Frankland on his way to the stone cottages where he is hunting for the stranger. Over a bottle of wine at his home, Frankland bragged that he knew where the prisoner was hiding since he had observed a messenger boy bringing food to the stone cottages through his telescope. Watson bids the boy farewell and follows him to an abandoned cottage that appears to be habitable when he realises that the boy is bringing food to the stranger rather than the prisoner. He enters and looks about, discovering a message stating that Watson has gone to Coombe Tracey. He chooses to wait in a shadowy area of the cabin with his revolver drawn after becoming aware that he is being observed.  
+
+After a brief interval, he hears footsteps and a voice addressing him specifically. 
+
+Chapter 12. Death on the Moor 
+
+Watson is concerned and demands an explanation when he realises the mystery man is none other than Sherlock Holmes. In order to conduct his own investigation, Holmes appears to have asked Watson to travel with Sir Henry. He clarifies that Laura Lyons and Stapleton are in a relationship and that the Stapletons are a married couple rather than being brother and sister. When Watson expresses scepticism, Holmes says that after learning from Watson's report that Stapleton had once been a schoolmaster, he had looked up someone who matched Stapleton's description in the educational system's records. Holmes claims that this man had a wife.  
+
+Beryl Stapleton penned the warning, which Holmes confirms, proving that the Stapletons were the ones who followed Sir Henry to London. Given that they were dealing with murder the entire time, Holmes is even certain that Stapleton is the perpetrator. Sir Charles was lured to the gate on the moor by Stapleton using Laura Lyons, who then managed to scare him into fleeing and giving him a heart attack. Holmes says that he only has two more days to substantiate his suspicions and offer a reason.  
+
+Screaming breaks up their exchange. When they finally emerge into the night, they discover a body at the base of a precipice. When they turn him over, they see it is Selden, who was dressed in the tweed suit Barrymore had given him. At first, they believe it is Sir Henry. He must have been evading something because he shattered his neck after falling down the cliff.  
+
+Stapleton unexpectedly shows in and explains that he had come looking for Sir Henry because he hadn't shown up for dinner at Merripit House.  
+
+Holmes informs Stapleton that he is departing for London the following day before they split up to head to their individual houses. 
+
+Chapter 13. Fixing the Nets 
+
+When Stapleton learns that Sir Henry is still alive, Holmes and Watson are impressed with his poise. Watson wants to go after him right away, but Holmes points out that they have no evidence yet. They must use Sir Henry as bait to accomplish this.  
+
+Holmes notices an uncanny likeness between Sir Hugo and Stapleton in the portrait when he returns to Baskerville Hall and catches a glimpse of it. It is clear that he has figured out the motivation: Stapleton must be a family member who will take over the Baskerville estate if Sir Henry passes away.  
+
+Holmes and Watson assert that Sir Henry must eat alone with Stapleton since they must return to London. Henry is concerned, but he vows to follow Holmes' instructions exactly: he will go to dinner, send his driver home, and then, thereafter, go by himself back across the moor to Baskerville Hall.  
+
+Actually, Watson and Holmes visit Laura Lyons to question her once more. She admits everything when they let her know Stapleton is married. What to include in the letter to Sir Charles has been given to her by Stapleton. Stapleton warned her against meeting Sir Charles and let her know that he would pay for the divorce personally before she kept the appointment.  
+
+Inspector Lestrade from Scotland Yard is expected any moment, according to a telegram received by Sherlock Holmes. 
+
+Chapter 14. The Hound of the Baskervilles 
+
+Lestrade is picked up by Holmes and Watson, who then head to the moor close to Merripit House to wait for Sir Henry after dinner. Watson is sent by Holmes to spy on the house, but all he finds is Henry and Stapleton conversing over coffee in the dining room after dinner. There is no sign of Beryl Stapleton. Watson hears scuffling inside the outhouse where Stapleton is using the restroom. Watson then makes a report as the unexpectedly quick-approaching fog. Holmes and his comrades retreat to a higher point above the fog because of fear that their plan may fall through if they are unable to see Sir Henry.  
+
+A short while later, they witness Sir Henry go shortly before being engulfed by the fog. Then, as the tale foretells, an enormous dog with a muzzle that appears to spit fire bursts out of the mist and charges Sir Henry. They had been hearing the thunderous footsteps of a dog. In order to make the dog glow, Holmes kills the animal, which turns out to be a bloodhound mastiff with phosphorus in its mouth.  
+
+As they approach the Merripit mansion to capture Stapleton, they leave Sir Henry alone because he is uninjured. However, they only discover Beryl Stapleton in a room upstairs, bound and gagged. She admits that despite being beaten, she loved and feared her husband but was unable to give her assent to Sir Henry's death. Stapleton has left for his refuge in Grimpen Mire, she informs them. They decide to pursue him the following day because he spends the entire night there due to the dense fog.  
+
+Beryl takes Stapleton to Grimpen Mire the following day. The trail of Stapleton's footsteps abruptly ends where they only locate Sir Henry's old footwear. Holmes thinks Stapleton has become lost and has been sucked up by the moor. They locate the cottage where he kept the hound as they proceed. 
+
+Chapter 15. A Retrospection 
+
+Sir Henry and Dr. Mortimer travel to Baker Street in London to get ready for a journey to help Sir Henry find his peace. Holmes explains how he solved the case as they discuss the circumstances that led to their meeting. Rodger Baskerville, the youngest of the three brothers, was the father of Stapleton. He wed the Costa Rican Beryl Garcia, and the two of them emigrated to England in order to avoid being found guilty of embezzlement. He founded a school in the north, and when it closed, he eventually moved to Devonshire. He made friends with Sir Charles after realising he was entitled to the inheritance; Sir Charles then confided in him and told him about the legend and his weak heart. Stapleton devised a cunning scheme.  
+
+He hired Laura Lyons after his wife declined to assist him. While courting her and making marriage proposals, he actually used her to entice Sir Charles to the gate.  
+
+Stapleton had to devise a strategy to get rid of the second heir after realising there was a third. He went to London with his wife to spy on Sir Henry and Dr. Mortimer, but he was unaware that his wife was warning Sir Henry. In order to teach the dog Sir Henry's scent, he stole the boot. Realizing the first boot had never been worn, he was forced to steal the second.  
+
+In addition, Holmes explains his own deception. Watson immediately suspected the Stapletons when he received a description of the neighbours because the warning to Sir Henry had smelled of perfume. His own research gave him the required hint and revealed their marital status. Beryl Stapleton was stuck in a violent marriage out of fear, but she was forced to leave him when she saw the dog and realised it was trying to murder Sir Henry.  
+
+There is still one unanswered question: How could Stapleton have taken Sir Henry's riches without outing himself and raising suspicion if he had been successful in doing so? Holmes emphasises that it is hard to make assumptions about a man's potential future acti
