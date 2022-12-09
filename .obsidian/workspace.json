@@ -87,8 +87,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "a122902fc0c2fa8c"
+            }
           },
           {
             "id": "c02e7e0c11805741",
@@ -113,26 +112,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "61740bc2e6934025",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b0a66b6236dab77d",
+            "id": "dcb3808d87543ab9",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "Trape/Trape notizen.md"
+                "file": "resume.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "a122902fc0c2fa8c"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -198,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francais/La structure d'un paragraphe argumentatif.md",
+                "file": "resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francais/La structure d'un paragraphe argumentatif.md",
+                "file": "resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francais/La structure d'un paragraphe argumentatif.md"
+                "file": "resume.md"
               }
             }
           }
@@ -249,8 +243,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0a66b6236dab77d",
+  "active": "dcb3808d87543ab9",
   "lastOpenFiles": [
+    "Francais/La structure d'un paragraphe argumentatif.md",
     "English/quatar english.md",
     "Deutsch/Facebook mam Fänk Arthur Drews.md",
     "Picture 1.png",
@@ -259,7 +254,6 @@
     "Francais/Dissertation sur le rire.md",
     "Francais/dissertation thèmes.md",
     "Francais/La dissertation dialectique (pour ou contre).md",
-    "Francais/La structure d'un paragraphe argumentatif.md",
     "Francais/LGBTphobies.md"
   ]
 }
