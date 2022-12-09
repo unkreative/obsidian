@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Deutsch/einleitung, lineare erörterung.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Deutsch/einleitung, lineare erörterung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Deutsch/einleitung, lineare erörterung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Deutsch/einleitung, lineare erörterung.md"
               }
             }
           }
@@ -257,6 +257,7 @@
   },
   "active": "33ec26a963fbdbc1",
   "lastOpenFiles": [
+    "Untitled.md",
     "resume.md",
     "Francais/La structure d'un paragraphe argumentatif.md",
     "English/quatar english.md",
@@ -265,7 +266,6 @@
     "Scite/scite kuer/groupe sanguins/Blutgruppen.md",
     "Scite/scite kuer/_Index_scite kuer.md",
     "Francais/Dissertation sur le rire.md",
-    "Francais/dissertation thèmes.md",
-    "Francais/La dissertation dialectique (pour ou contre).md"
+    "Francais/dissertation thèmes.md"
   ]
 }
