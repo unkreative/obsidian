@@ -6,3 +6,13 @@ Sur la lune, cette même personne a un poids de 93N (58kg * 1.6N/kg), donc une f
 
 3. Un objet C a une masse de 95kg. Calculer le poids de cet objet sur Terre, puis calculer la masse d’un objet D qui exerce le même poids mais sur la lune !
 
+700/ 9.81 = 71.3557594292
+71.3557594292 * 1.6 = 114.1692151
+
+
+700/1.68 = 416.6666667
+
+
+95 * 9.81 = 931.95
+
+931.95 / 9.81 = 95
