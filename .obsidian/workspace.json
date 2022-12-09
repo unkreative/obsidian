@@ -129,11 +129,9 @@
             "id": "33ec26a963fbdbc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Deutsch/einleitung, lineare erörterung.md",
-                "mode": "source",
-                "source": false
+                "file": "Picture 1.png"
               }
             }
           }
@@ -204,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/einleitung, lineare erörterung.md",
+                "file": "Picture 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/einleitung, lineare erörterung.md",
+                "file": "Picture 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/einleitung, lineare erörterung.md"
+                "file": "Picture 1.png"
               }
             }
           }
@@ -257,6 +255,7 @@
   },
   "active": "33ec26a963fbdbc1",
   "lastOpenFiles": [
+    "Deutsch/einleitung, lineare erörterung.md",
     "Untitled.md",
     "resume.md",
     "Francais/La structure d'un paragraphe argumentatif.md",
@@ -265,7 +264,6 @@
     "Picture 1.png",
     "Scite/scite kuer/groupe sanguins/Blutgruppen.md",
     "Scite/scite kuer/_Index_scite kuer.md",
-    "Francais/Dissertation sur le rire.md",
-    "Francais/dissertation thèmes.md"
+    "Francais/Dissertation sur le rire.md"
   ]
 }
