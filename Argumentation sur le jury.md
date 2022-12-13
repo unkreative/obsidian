@@ -8,7 +8,7 @@ Ceci peut aussi être un désavantage, car les membres du jury n'ont pas l'éduc
 On peut voire une faiblesse si on prend des procès juridiques concernant des superstars, il est souvent le cas que le jury est influencé par ces influenceurs.
 Comme par exemple dans le cas de Jhonny Depp. Les membres du jury avaient sûrement un opinion sur la situation, tout le monde pourrait suivre les actions dans les news et former son opinion personnel et influencé. 
 
-En outre l'isolation des membres du jury est un autre facteur qui est un concerne en utilisant le système de jury. Les membres du jury peuvent perdre leur travail parce qu'ils n'attendent pas leurs travaux et pas tous les firmes acceptent pas ceci ou qui ne peuvent pas se permettre.
+En outre, l'isolation des membres du jury est un autre facteur qui est un concerné en utilisant le système de jury. Les membres du jury peuvent perdre leur travail parce qu'ils n'attendent pas leurs travaux et pas toutes les firmes n'acceptent pas ceci ou qui ne peuvent pas se permettre.
 Comme dans le cas de Jhonny Depp, les juges devaient s'isoler pour quelque mois. Des cases qui durent des années ne sont pas possible avec ce système ou ne laissent pas passer les membres du jury sans conséquences.
 
-Pour conclure, les deux systèmes ont des avantages et désavantages, mais pour des cas longues ou des cas includant des personalités fameux il est mieux d'utiliser le système avec un seul juge.
+Pour conclure, les deux systèmes ont des avantages et désavantages, mais pour des cas longs ou des cas incluant des personnalités fameux, il est mieux d'utiliser le système avec un seul juge.
