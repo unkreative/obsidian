@@ -5,4 +5,4 @@ Le fait que ce système produce des plusieurs opinions qui peut résoudre dans u
 
 Ceci peut aussi être un désavantage, car les membres du jury n'ont pas l'éducation qu'un juge a et peut influencer la décision. Le fait que les personnes sont des milleux différents, est un facteur qui peut provoquer des différences d'opinion et ça peut être distrayant pendant en votant.
 
-On peut voire une faiblesse si on prends des procès juridiques concernant des superstars, il peut-être que le jury est influencé par ces influenceurs. Comme par exemple dans le cas de Jhonny Depp. Les membres du jury ont sûrement, un opinion sur la situation, tout le monde pourrait suivre les actions dans les news et 
+On peut voire une faiblesse si on prends des procès juridiques concernant des superstars, il est souvent le cas que le jury est influencé par ces influenceurs. Comme par exemple dans le cas de Jhonny Depp. Les membres du jury ont sûrement, un opinion sur la situation, tout le monde pourrait suivre les actions dans les news et former son opinion personnel et influencé. 

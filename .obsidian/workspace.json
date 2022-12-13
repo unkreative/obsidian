@@ -8,124 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec4582ea210fac74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francais/La structure d'un paragraphe argumentatif.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e041e54c925543f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francais/demi dissertation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcd528efd3aee2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francais/dissertation thèmes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25df792d4cdc8cbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francais/Dissertation sur le rire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38b7370ae26ae785",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Picture 1.png"
-              }
-            }
-          },
-          {
-            "id": "643646610d40db3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Facebook mam Fänk Arthur Drews.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4cb712bbffa90fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trape/Trape notizen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c02e7e0c11805741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francais/La dissertation dialectique (pour ou contre).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "888926d385ab53dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francais/le tourisme avantages et inconvénients.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcb3808d87543ab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5dc4fed2ce03dcf0",
             "type": "leaf",
             "state": {
@@ -137,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume.md",
+                "file": "Argumentation sur le jury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume.md",
+                "file": "Argumentation sur le jury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume.md"
+                "file": "Argumentation sur le jury.md"
               }
             }
           }
@@ -255,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dcb3808d87543ab9",
+  "active": "5dc4fed2ce03dcf0",
   "lastOpenFiles": [
-    "Francais/demi dissertation.md",
-    "Argumentation sur le jury.md",
-    "Francais/Dissertation sur le rire.md",
-    "Francais/Vocabulaire des articles.md",
-    "Francais/LGBTphobies.md",
-    "Francais/LGBT-phobie.md",
-    "Francais/le tourisme avantages et inconvénients.md",
     "Francais/La structure d'un paragraphe argumentatif.md",
+    "Francais/demi dissertation.md",
+    "Francais/dissertation thèmes.md",
+    "Francais/Dissertation sur le rire.md",
+    "Picture 1.png",
+    "Deutsch/Facebook mam Fänk Arthur Drews.md",
+    "Trape/Trape notizen.md",
     "Francais/La dissertation dialectique (pour ou contre).md",
+    "Francais/le tourisme avantages et inconvénients.md",
     "resume.md"
   ]
 }
