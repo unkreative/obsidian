@@ -148,9 +148,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5dc4fed2ce03dcf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argumentation sur le jury.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francais/demi dissertation.md",
+                "file": "Argumentation sur le jury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francais/demi dissertation.md",
+                "file": "Argumentation sur le jury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francais/demi dissertation.md"
+                "file": "Argumentation sur le jury.md"
               }
             }
           }
@@ -267,8 +279,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1666dd3bd7aff21",
+  "active": "5dc4fed2ce03dcf0",
   "lastOpenFiles": [
+    "Francais/demi dissertation.md",
     "Francais/Dissertation sur le rire.md",
     "Francais/Vocabulaire des articles.md",
     "Francais/LGBTphobies.md",
@@ -277,7 +290,6 @@
     "Francais/La structure d'un paragraphe argumentatif.md",
     "Francais/La dissertation dialectique (pour ou contre).md",
     "resume.md",
-    "sherlock gnomes.md",
-    "English/quatar english.md"
+    "sherlock gnomes.md"
   ]
 }
