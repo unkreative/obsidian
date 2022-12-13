@@ -2,4 +2,4 @@ Les avantages et les inconvénients d'un procès impliquant un jury, s'agit-il d
 
 Les avantages de ce système sont numéreux, commençant avec l'argument qu'il y a plusieurs opinions différentess et différentss culture qui peut résoudre dans une décision plus reflecté.
 
-Ceci peut aussi être un désavantage, car les membres du jury n'ont pas l'éducation qu'un juge a. Le fait que les personnes sont des milleux différents peut aussi provoquer des in
+Ceci peut aussi être un désavantage, car les membres du jury n'ont pas l'éducation qu'un juge a. Le fait que les personnes sont des milleux différents, qui provoquer peuvent être les différences d'opinion
