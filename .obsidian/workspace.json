@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c56014e854216136",
+        "id": "5c145ee5b9f7e17e",
         "type": "tabs",
         "children": [
           {
-            "id": "fd0fa8948d682086",
+            "id": "ab522bb44ac6b2ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6ae498c81e57e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STEINIGUNG.md",
+                "file": "Artso/STEINIGUNG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STEINIGUNG.md",
+                "file": "Artso/STEINIGUNG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STEINIGUNG.md",
+                "file": "Artso/STEINIGUNG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STEINIGUNG.md"
+                "file": "Artso/STEINIGUNG.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6ae498c81e57e83",
+  "active": "ab522bb44ac6b2ab",
   "lastOpenFiles": [
+    "Artso/Qu'est-ce qu'une dictature?.md",
+    "Artso/Artso.md",
+    "Artso/Argumentation sur le jury.md",
+    "English/resume.md",
+    "Deutsch/Picture 1.png",
+    "orphaned files output.md",
     "Untitled.md",
-    "sherlock gnomes.md",
-    "_Index_obsidian.md",
-    "Argumentation sur le jury.md",
-    "Francais/La structure d'un paragraphe argumentatif.md",
-    "Francais/demi dissertation.md",
-    "Francais/dissertation thèmes.md",
-    "Francais/Dissertation sur le rire.md",
-    "Picture 1.png",
-    "Deutsch/Facebook mam Fänk Arthur Drews.md"
+    "Artso/STEINIGUNG.md",
+    "English/sherlock gnomes.md",
+    "_Index_obsidian.md"
   ]
 }
