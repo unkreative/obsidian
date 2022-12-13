@@ -4,27 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4d810ba7a8755cde",
+        "id": "c56014e854216136",
         "type": "tabs",
         "children": [
           {
-            "id": "5dc4fed2ce03dcf0",
+            "id": "fd0fa8948d682086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_obsidian.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a98583d853bf61e3",
+            "id": "c6ae498c81e57e83",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "STEINIGUNG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "STEINIGUNG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "STEINIGUNG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "STEINIGUNG.md"
+              }
             }
           }
         ]
@@ -141,8 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a98583d853bf61e3",
+  "active": "c6ae498c81e57e83",
   "lastOpenFiles": [
+    "Untitled.md",
+    "sherlock gnomes.md",
     "_Index_obsidian.md",
     "Argumentation sur le jury.md",
     "Francais/La structure d'un paragraphe argumentatif.md",
@@ -150,8 +160,6 @@
     "Francais/dissertation thèmes.md",
     "Francais/Dissertation sur le rire.md",
     "Picture 1.png",
-    "Deutsch/Facebook mam Fänk Arthur Drews.md",
-    "Trape/Trape notizen.md",
-    "Francais/La dissertation dialectique (pour ou contre).md"
+    "Deutsch/Facebook mam Fänk Arthur Drews.md"
   ]
 }

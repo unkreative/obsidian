@@ -1,0 +1,2 @@
+Il est la seule méthode d'execution où le peuple peut aussi participer. 
+L'execution par lapidation est assez cruel, donc le peuple se souvient. Donc il y a moins d'incidents qui provoquent une autre execution. Il améliore aussi le enjoyement
