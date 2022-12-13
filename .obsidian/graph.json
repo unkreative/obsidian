@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-output",
+  "search": "-file:orphane",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -102,6 +102,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.5903326362100272,
-  "close": true
+  "scale": 0.26060300617056686,
+  "close": false
 }
