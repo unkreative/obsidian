@@ -9,7 +9,6 @@
  [[Argumentation sur le jury|Argumentation sur le jury]]
  [[export/_Index_export|_Index_export]]
  [[groupe sanguins/_Index_groupe sanguins|_Index_groupe sanguins]]
- [[orphaned files output|orphaned files output]]
  [[Picture 1.png|Picture 1.png]]
  [[resume|resume]]
  [[sherlock gnomes|sherlock gnomes]]

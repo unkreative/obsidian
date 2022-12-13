@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argumentation sur le jury.md",
+                "file": "_Index_obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a98583d853bf61e3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argumentation sur le jury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argumentation sur le jury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Argumentation sur le jury.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +141,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dc4fed2ce03dcf0",
+  "active": "a98583d853bf61e3",
   "lastOpenFiles": [
+    "_Index_obsidian.md",
+    "Argumentation sur le jury.md",
     "Francais/La structure d'un paragraphe argumentatif.md",
     "Francais/demi dissertation.md",
     "Francais/dissertation thèmes.md",
@@ -145,8 +152,6 @@
     "Picture 1.png",
     "Deutsch/Facebook mam Fänk Arthur Drews.md",
     "Trape/Trape notizen.md",
-    "Francais/La dissertation dialectique (pour ou contre).md",
-    "Francais/le tourisme avantages et inconvénients.md",
-    "resume.md"
+    "Francais/La dissertation dialectique (pour ou contre).md"
   ]
 }
