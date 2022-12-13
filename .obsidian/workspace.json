@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artso/STEINIGUNG.md",
+                "file": "Artso/lapidation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artso/STEINIGUNG.md",
+                "file": "Artso/lapidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artso/STEINIGUNG.md",
+                "file": "Artso/lapidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artso/STEINIGUNG.md"
+                "file": "Artso/lapidation.md"
               }
             }
           }
@@ -145,7 +145,7 @@
     "Deutsch/Picture 1.png",
     "orphaned files output.md",
     "Untitled.md",
-    "Artso/STEINIGUNG.md",
+    "Artso/lapidation.md",
     "English/sherlock gnomes.md",
     "_Index_obsidian.md"
   ]
