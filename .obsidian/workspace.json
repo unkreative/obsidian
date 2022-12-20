@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sieg jeil.md",
+                "file": "Francais/Vocabulaire des articles.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sieg jeil.md",
+                "file": "Francais/Vocabulaire des articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sieg jeil.md",
+                "file": "Francais/Vocabulaire des articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sieg jeil.md"
+                "file": "Francais/Vocabulaire des articles.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "80929abdd0499c1a",
   "lastOpenFiles": [
-    "Artso/lapidation PRO wichtig und richtig.md",
-    "Artso/Qu'est-ce qu'une dictature?.md",
-    "Artso/Artso.md",
-    "Artso/Argumentation sur le jury.md",
-    "English/resume.md",
-    "Deutsch/Picture 1.png",
-    "orphaned files output.md",
-    "Untitled.md",
-    "English/sherlock gnomes.md",
-    "_Index_obsidian.md"
+    "Francais/LGBTphobies.md",
+    "Francais/LGBT-phobie.md",
+    "Francais/le tourisme avantages et inconvénients.md",
+    "Francais/La structure d'un paragraphe argumentatif.md",
+    "Francais/La dissertation dialectique (pour ou contre).md",
+    "Francais/dissertation thèmes.md",
+    "Francais/Dissertation sur le rire.md",
+    "Francais/demi dissertation.md",
+    "Francais/Vocabulaire des articles.md",
+    "orphaned files output.md"
   ]
 }
