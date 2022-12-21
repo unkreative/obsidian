@@ -20,7 +20,7 @@ x kg * 9.81
 700/1.68 = **416.6666667**
 
 
-
+ne  dat ass net witzegggggggggggggggggggggggggggggg
 95 * 9.81 = 931.95
 
 931.95 / 9.81 = 95
