@@ -1,4 +1,4 @@
-horloge interne du voyageur est (unsynchronised)
+	horloge interne du voyageur est (unsynchronised)
 
 ## sympthomes
 troubles de l'etat
