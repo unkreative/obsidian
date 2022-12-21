@@ -14,8 +14,11 @@ Sur la lune, cette même personne a un poids de 93N (58kg * 1.6N/kg), donc une f
 
 1.
 poids 700 N
-g : 9.81
+g : 9.81 n/kg
+x kg * 9.81
+
 700/1.68 = **416.6666667**
+
 
 
 95 * 9.81 = 931.95
