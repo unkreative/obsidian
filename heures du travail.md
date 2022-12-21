@@ -10,3 +10,11 @@ temps de repos obligé
 ## italie
 8:45/12:15
 14:30/16:15
+
+## island
+7
+18
+
+## norwege
+8
+15
