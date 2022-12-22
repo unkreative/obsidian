@@ -3,7 +3,7 @@
 Le terme "dictateur" a une histoire longue et complexe et est né à Rome. Il vient du terme latin dictatura, qui désignait à l'origine un dirigeant temporaire nommé par le Sénat en cas d'urgence. 
 Le premier dictateur romain, Lucius Cornelius Sulla, a été nommé en 82 avant Jésus-Christ. Il est devenu si puissant qu'il a pu mettre en œuvre une série de réformes qui ont transformé la République romaine en un État autocratique.
 
-Au fil des siècles, la signification du terme "dictateur" a évolué. Aujourd'hui, il est le plus souvent utilisé pour désigner les dirigeants autocratiques qui exercent un contrôle total sur leur pays. Il existe quelques exemples de ce terme dans l'histoire, et chaque cas est unique.       Comme dit, Lucius Cornelius Sulla a été le premier dictateur de l'histoire.
+Au fil des siècles, la signification du terme "dictateur" a évolué. Aujourd'hui, il est le plus souvent utilisé pour désigner les dirigeants autocratiques qui exercent un contrôle total sur leur pays. Il existe quelques exemples de ce terme dans l'histoire, et chaque cas est unique. Comme dit, Lucius Cornelius Sulla a été le premier dictateur de l'histoire.
 
 Lucius Cornelius Sulla Felix, plus connu sous le nom de Sulla, était un général et un homme d'État romain. Il a eu la rare distinction d'occuper deux fois le poste de consul, ainsi que celui de dictateur. Sulla était un général habile, remportant de nombreux succès dans des guerres contre différents adversaires, étrangers ou nationaux. Il reçut un triomphe, la distinction la plus prestigieuse pour un général romain, en 88 avant Jésus-Christ.
 

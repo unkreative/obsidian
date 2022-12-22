@@ -57,9 +57,11 @@
             "id": "1e21b7945ff5c32a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "Artso/Qu'est-ce qu'une dictature?.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Artso/Qu'est-ce qu'une dictature?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Artso/Qu'est-ce qu'une dictature?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Artso/Qu'est-ce qu'une dictature?.md"
               }
             }
           }
@@ -197,15 +199,15 @@
   },
   "active": "1e21b7945ff5c32a",
   "lastOpenFiles": [
+    "Artso/lapidation PRO wichtig und richtig.md",
+    "Artso/Artso.md",
+    "Artso/Argumentation sur le jury.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
     "Scite/scite kuer/baillement.md",
     "Scite/scite kuer/jetlag.md",
     "Scite/scite kuer/coma.md",
     "heures du travail.md",
     "Francais/Vocabulaire des articles.md",
-    "Francais/LGBTphobies.md",
-    "Francais/LGBT-phobie.md",
-    "Francais/le tourisme avantages et inconvénients.md",
-    "Francais/La structure d'un paragraphe argumentatif.md"
+    "Francais/LGBTphobies.md"
   ]
 }
