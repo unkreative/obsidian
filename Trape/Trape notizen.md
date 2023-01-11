@@ -130,6 +130,18 @@ hat ze weineg test daten angestallt an zuelen verwiesselt
 
 epuer daten waren null, do war iergendeen fehler bei den nimm, muss en fixen
 
+# update 1
+fier lo steet mol den grond system um internet, geet och alles
+wat ech nach maan muss:
+- den start screen
+- login sachen
+- sichengine
+- settings un den user unpassend
+- faarwen änneren
+- 
+
+
+
 ## test setup (infrastructure )
 
 ## programming the wireframe 
