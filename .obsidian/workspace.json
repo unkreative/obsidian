@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Scite/scite kuer/_Index_scite kuer.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Scite/scite kuer/_Index_scite kuer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Scite/scite kuer/_Index_scite kuer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md"
+                "file": "Scite/scite kuer/_Index_scite kuer.md"
               }
             }
           }
@@ -197,17 +197,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "80929abdd0499c1a",
+  "active": "9bb7acd0ebab9042",
   "lastOpenFiles": [
-    "Scite/scite kuer/baillement.md",
-    "Artso/lapidation PRO wichtig und richtig.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
+    "Scite/scite kuer/baillement.md",
+    "Scite/scite kuer/coma.md",
+    "Scite/scite kuer/Scite kuer.md",
+    "Artso/lapidation PRO wichtig und richtig.md",
     "Trape/Trape notizen.md",
     "Trape/_Index_Trape.md",
     "Deutsch/Facebook mam Fränk Arthur Drews.md",
     "Deutsch/Résume von Der richter und sein henker.md",
-    "Deutsch/Picture 1.png",
-    "Deutsch/einleitung, lineare erörterung.md",
-    "Deutsch/Direkte und indirekte rede.md"
+    "Deutsch/Picture 1.png"
   ]
 }
