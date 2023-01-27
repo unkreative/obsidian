@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artso/lapidation PRO wichtig und richtig.md",
+                "file": "Deutsch/einleitung, lineare erörterung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf388f9ed82dcdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. regeln der grosschreibung.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Résume von Der richter und sein henker.md",
+                "file": "5. regeln der grosschreibung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Résume von Der richter und sein henker.md",
+                "file": "5. regeln der grosschreibung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Résume von Der richter und sein henker.md"
+                "file": "5. regeln der grosschreibung.md"
               }
             }
           }
@@ -213,17 +225,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "80929abdd0499c1a",
+  "active": "bf388f9ed82dcdbc",
   "lastOpenFiles": [
-    "Deutsch/Daitsch kuer.md",
+    "Deutsch/einleitung, lineare erörterung.md",
+    "Artso/lapidation PRO wichtig und richtig.md",
+    "Scite/scite kuer/5. Changement d'heure.pdf",
     "Untitled.canvas",
+    "Untitled.md",
+    "Deutsch/Résume von Der richter und sein henker.md",
+    "Deutsch/Daitsch kuer.md",
     "5 regeln der Großschreibung.md",
     "Scite/scite kuer/Les hormones sexuels.md",
-    "Scite/scite kuer/_Index_scite kuer.md",
-    "Scite/scite kuer/5. Changement d'heure.pdf",
-    "Scite/scite kuer/baillement.md",
-    "Scite/scite kuer/coma.md",
-    "Scite/scite kuer/Scite kuer.md",
-    "Artso/lapidation PRO wichtig und richtig.md"
+    "Scite/scite kuer/_Index_scite kuer.md"
   ]
 }
