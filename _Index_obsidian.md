@@ -6,6 +6,7 @@
  ![[Math/_Index_Math|_Index_Math]]
  ![[Scite/_Index_Scite|_Index_Scite]]
  ![[Trape/_Index_Trape|_Index_Trape]]
+ [[5 regeln der Großschreibung|5 regeln der Großschreibung]]
  [[export/_Index_export|_Index_export]]
  [[groupe sanguins/_Index_groupe sanguins|_Index_groupe sanguins]]
  [[heures du travail|heures du travail]]

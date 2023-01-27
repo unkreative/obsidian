@@ -23,17 +23,23 @@
             "id": "80929abdd0499c1a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch/Daitsch kuer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "63e46defe87b0acd",
+            "id": "f4219b6cb5e6c77c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "5 regeln der Großschreibung.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -138,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5 regeln der Großschreibung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5 regeln der Großschreibung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5 regeln der Großschreibung.md"
+              }
             }
           }
         ]
@@ -199,8 +209,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63e46defe87b0acd",
+  "active": "f4219b6cb5e6c77c",
   "lastOpenFiles": [
+    "Deutsch/Daitsch kuer.md",
     "Scite/scite kuer/Les hormones sexuels.md",
     "Scite/scite kuer/_Index_scite kuer.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
@@ -209,7 +220,6 @@
     "Scite/scite kuer/Scite kuer.md",
     "Artso/lapidation PRO wichtig und richtig.md",
     "Trape/Trape notizen.md",
-    "Trape/_Index_Trape.md",
-    "Deutsch/Facebook mam Fränk Arthur Drews.md"
+    "Trape/_Index_Trape.md"
   ]
 }
