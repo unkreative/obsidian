@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "63e46defe87b0acd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "9786ba81c597028f",
             "type": "leaf",
             "state": {
@@ -62,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +199,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "80929abdd0499c1a",
+  "active": "63e46defe87b0acd",
   "lastOpenFiles": [
     "Scite/scite kuer/Les hormones sexuels.md",
     "Scite/scite kuer/_Index_scite kuer.md",
