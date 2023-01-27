@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Daitsch kuer.md",
+                "file": "Deutsch/Résume von Der richter und sein henker.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,11 +35,15 @@
             "id": "f4219b6cb5e6c77c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "5 regeln der Großschreibung.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 919.4345482795277,
+                  "y": -218.3650653539607,
+                  "zoom": -0.8666666666666663,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -78,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 regeln der Großschreibung.md",
+                "file": "Deutsch/Résume von Der richter und sein henker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 regeln der Großschreibung.md",
+                "file": "Deutsch/Résume von Der richter und sein henker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 regeln der Großschreibung.md"
+                "file": "Deutsch/Résume von Der richter und sein henker.md"
               }
             }
           }
@@ -209,17 +213,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f4219b6cb5e6c77c",
+  "active": "80929abdd0499c1a",
   "lastOpenFiles": [
     "Deutsch/Daitsch kuer.md",
+    "Untitled.canvas",
+    "5 regeln der Großschreibung.md",
     "Scite/scite kuer/Les hormones sexuels.md",
     "Scite/scite kuer/_Index_scite kuer.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
     "Scite/scite kuer/baillement.md",
     "Scite/scite kuer/coma.md",
     "Scite/scite kuer/Scite kuer.md",
-    "Artso/lapidation PRO wichtig und richtig.md",
-    "Trape/Trape notizen.md",
-    "Trape/_Index_Trape.md"
+    "Artso/lapidation PRO wichtig und richtig.md"
   ]
 }

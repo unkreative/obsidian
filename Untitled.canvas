@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"1e38843d088791c5","x":765,"y":310,"width":250,"height":60,"type":"text","text":"Dain Mac Daddy"},
+		{"id":"3f9fddd7b74a9b8d","x":523,"y":-1060,"width":734,"height":400,"type":"file","file":"Scite/scite kuer/Les hormones sexuels.md"}
+	],
+	"edges":[
+		{"id":"1b5de21f6a90d53a","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"right"},
+		{"id":"babd508d24520d8c","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"bottom"},
+		{"id":"730de8a68a3c393e","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"top"},
+		{"id":"d9e375698f7a5283","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"left"},
+		{"id":"bf31a18433460888","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"bottom"},
+		{"id":"7b8aab151af2d938","fromNode":"3f9fddd7b74a9b8d","fromSide":"bottom","toNode":"1e38843d088791c5","toSide":"bottom"},
+		{"id":"dbce15861df96511","fromNode":"3f9fddd7b74a9b8d","fromSide":"right","toNode":"1e38843d088791c5","toSide":"bottom"},
+		{"id":"1f83ad9cfcff4bf6","fromNode":"3f9fddd7b74a9b8d","fromSide":"top","toNode":"1e38843d088791c5","toSide":"bottom"},
+		{"id":"4a6a5c7848cbc135","fromNode":"3f9fddd7b74a9b8d","fromSide":"top","toNode":"1e38843d088791c5","toSide":"right"},
+		{"id":"6d83933b64ba4626","fromNode":"3f9fddd7b74a9b8d","fromSide":"right","toNode":"1e38843d088791c5","toSide":"right"},
+		{"id":"3cb4817875346a0a","fromNode":"3f9fddd7b74a9b8d","fromSide":"bottom","toNode":"1e38843d088791c5","toSide":"bottom"},
+		{"id":"de2dd3a5c51a1a24","fromNode":"3f9fddd7b74a9b8d","fromSide":"top","toNode":"1e38843d088791c5","toSide":"top"},
+		{"id":"f4a103ae88148e34","fromNode":"3f9fddd7b74a9b8d","fromSide":"right","toNode":"1e38843d088791c5","toSide":"top"},
+		{"id":"a7446df9f3708c38","fromNode":"3f9fddd7b74a9b8d","fromSide":"bottom","toNode":"1e38843d088791c5","toSide":"bottom"},
+		{"id":"23dacafe635f88bf","fromNode":"3f9fddd7b74a9b8d","fromSide":"bottom","toNode":"1e38843d088791c5","toSide":"top"},
+		{"id":"3d1d0e8dd1891e9d","fromNode":"3f9fddd7b74a9b8d","fromSide":"top","toNode":"1e38843d088791c5","toSide":"left"},
+		{"id":"becf6042c2ec0e21","fromNode":"3f9fddd7b74a9b8d","fromSide":"right","toNode":"1e38843d088791c5","toSide":"left"}
+	]
+}
