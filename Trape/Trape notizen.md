@@ -141,6 +141,9 @@ wat ech nach maan muss:
 - 
 
 
+Database struktur gouf geännert ass  lo alles  vill mei effizient 
+
+
 
 ## test setup (infrastructure )
 

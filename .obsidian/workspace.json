@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. regeln der grosschreibung.md",
+                "file": "Trape/Trape notizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. regeln der grosschreibung.md",
+                "file": "Trape/Trape notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. regeln der grosschreibung.md",
+                "file": "Trape/Trape notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. regeln der grosschreibung.md"
+                "file": "Trape/Trape notizen.md"
               }
             }
           }
@@ -227,6 +227,7 @@
   },
   "active": "bf388f9ed82dcdbc",
   "lastOpenFiles": [
+    "5. regeln der grosschreibung.md",
     "Deutsch/einleitung, lineare erörterung.md",
     "Artso/lapidation PRO wichtig und richtig.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
@@ -235,7 +236,6 @@
     "Deutsch/Résume von Der richter und sein henker.md",
     "Deutsch/Daitsch kuer.md",
     "5 regeln der Großschreibung.md",
-    "Scite/scite kuer/Les hormones sexuels.md",
-    "Scite/scite kuer/_Index_scite kuer.md"
+    "Scite/scite kuer/Les hormones sexuels.md"
   ]
 }
