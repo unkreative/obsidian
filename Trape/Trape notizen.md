@@ -1,7 +1,7 @@
 #trape 
 #notizen
 
-# Design, Figma
+# Design, Figmaballs
 ## wireframe,
 wireframe ass dofier do fier ze kukken wat wou hinner kennt an wei et am beschten ausgesait
 
