@@ -60,8 +60,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "73e884449ec97e70",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -139,7 +148,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "0715fa93c24ab2c0",

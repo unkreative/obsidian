@@ -10,5 +10,13 @@
   "obsidian-dynamic-toc",
   "table-editor-obsidian",
   "zoottelkeeper-obsidian-plugin",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "obsidian-vault-statistics-plugin",
+  "obsidian-advanced-new-file",
+  "obsidian-binary-file-manager-plugin",
+  "obsidian-code-preview",
+  "dbfolder",
+  "obsidian-file-cleaner",
+  "obsidian-file-color",
+  "file-tree-alternative"
 ]
