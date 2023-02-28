@@ -9,7 +9,7 @@
   "folderEmoji": ":card_index_dividers:",
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": true,
-  "foldersExcluded": "export/\nexport/*\ndiseases/plugin/chart/\nexport/plugin\nUsers/lousergonne/Documents/GitHub/obsidian/export/*\nexport/*\norpaned files output",
+  "foldersExcluded": "export/\nexport/*\ndiseases/plugin/chart/\nexport/plugin\nUsers/lousergonne/Documents/GitHub/obsidian/export/*\nexport/*\norpaned files output\nINFO_",
   "foldersIncluded": "Artso/\nDeutsch/\nEnglish/\nFrancais/\nMath/\nScite/\nTrape/\nVieso/",
   "sortOrder": "asc",
   "addSquareBrackets": true,

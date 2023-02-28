@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "51159f1b3440bfc5",
+        "id": "b6c3333a0be50a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "13a808765f14b413",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "db.md"
-              }
-            }
-          },
-          {
-            "id": "5d724328016a49dc",
+            "id": "d9cd2b7df3faa323",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,10 +154,17 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5d724328016a49dc",
+  "active": "d9cd2b7df3faa323",
   "lastOpenFiles": [
-    "test/test 1.md",
+    "INFO_5. Changement d'heure_PDF.md",
+    "_Index_obsidian.md",
     "INFO_whiteboard_PNG.md",
+    "INFO_chalk-green 2_PNG.md",
+    "INFO_chalk-orange 2_PNG.md",
+    "INFO_chalk-purple_PNG.md",
+    "db.md",
+    "export/Presentation scite Brain diseases/plugin/chalkboard/img/boardmarker-orange.png",
+    "test/test 1.md",
     "INFO_sponge_PNG.md",
     "INFO_sponge 2_PNG.md",
     "INFO_chalk-yellow_PNG.md",
@@ -176,12 +173,9 @@
     "INFO_chalk-white 2_PNG.md",
     "INFO_chalk-red_PNG.md",
     "INFO_chalk-red 2_PNG.md",
-    "INFO_chalk-purple_PNG.md",
     "INFO_chalk-purple 2_PNG.md",
     "INFO_chalk-orange_PNG.md",
-    "INFO_chalk-orange 2_PNG.md",
     "INFO_chalk-green_PNG.md",
-    "INFO_chalk-green 2_PNG.md",
     "INFO_chalk-blue_PNG.md",
     "INFO_chalk-blue 2_PNG.md",
     "INFO_boardmarker-yellow_PNG.md",
@@ -189,9 +183,6 @@
     "INFO_boardmarker-red_PNG.md",
     "INFO_boardmarker-red 2_PNG.md",
     "INFO_boardmarker-purple_PNG.md",
-    "INFO_boardmarker-purple 2_PNG.md",
-    "INFO_boardmarker-orange_PNG.md",
-    "INFO_boardmarker-orange 2_PNG.md",
     "Untitled 1.canvas",
     "test",
     "Scite/cannabis/~$ difference entre THC and CBD.docx",
