@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e681214e6def4ff1",
+        "id": "51159f1b3440bfc5",
         "type": "tabs",
         "children": [
           {
-            "id": "18306d07ae286d7e",
+            "id": "13a808765f14b413",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -16,8 +16,21 @@
                 "file": "db.md"
               }
             }
+          },
+          {
+            "id": "5d724328016a49dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test/test 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "db.md",
+                "file": "test/test 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "db.md",
+                "file": "test/test 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "db.md"
+                "file": "test/test 1.md"
               }
             }
           }
@@ -160,19 +172,22 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "18306d07ae286d7e",
+  "active": "4ce44b2d9c2c93a7",
   "lastOpenFiles": [
+    "db.md",
+    "test/test 1.md",
+    "test/test.md",
+    "test",
+    "sieg jeil.md",
     "Artso/lapidation PRO wichtig und richtig.md",
     "Artso/Artso.md",
     "Deutsch/Direkte und indirekte rede.md",
-    "db.md",
     "Scite/cannabis/~$ difference entre THC and CBD.docx",
     "Untitled.canvas",
     "Scite/scite kuer/coma.md",
     "Scite/scite kuer/Scite kuer.md",
     "Scite/scite kuer/Untitled.md",
     "Vieso/Le temps, cette confortable prison.md",
-    "sieg jeil.md",
     "Scite/scite kuer/heures du travail.md",
     "Vieso/_Index_Vieso.md",
     "export/_Index_export.md",
