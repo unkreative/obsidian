@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Scite/scite kuer/coma.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Scite/scite kuer/coma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md",
+                "file": "Scite/scite kuer/coma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scite/scite kuer/Scite kuer.md"
+                "file": "Scite/scite kuer/coma.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "0d9ea15edacc3d55",
   "lastOpenFiles": [
+    "Scite/scite kuer/Scite kuer.md",
     "Scite/scite kuer/Untitled.md",
     "Vieso/Le temps, cette confortable prison.md",
     "Untitled.canvas",
