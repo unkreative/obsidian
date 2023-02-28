@@ -8,102 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab522bb44ac6b2ab",
+            "id": "0d9ea15edacc3d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/einleitung, lineare erörterung.md",
+                "file": "Vieso/Le temps, cette confortable prison.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf388f9ed82dcdbc",
+            "id": "10e0d8dc0d1dc1d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "heures du travail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7888596e9b078d6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "80929abdd0499c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Résume von Der richter und sein henker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4219b6cb5e6c77c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 919.4345482795277,
-                  "y": -218.3650653539607,
-                  "zoom": -0.8666666666666663
-                }
-              }
-            }
-          },
-          {
-            "id": "9786ba81c597028f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scite/scite kuer/5. Changement d'heure.pdf"
-              }
-            }
-          },
-          {
-            "id": "c5f304343f96d18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e21b7945ff5c32a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trape/Trape notizen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heures du travail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "heures du travail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "heures du travail.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -234,8 +155,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b7888596e9b078d6",
+  "active": "10e0d8dc0d1dc1d6",
   "lastOpenFiles": [
+    "Vieso/Le temps, cette confortable prison.md",
     "orphaned files output.md",
     "sieg jeil.md",
     "Trape/Trape notizen.md",
