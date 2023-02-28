@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "-file:orphane ",
+  "search": "-file:orphaned",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -102,6 +102,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.3170225802618555,
-  "close": true
+  "scale": 3.6110853282951854,
+  "close": false
 }
