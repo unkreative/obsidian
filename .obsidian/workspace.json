@@ -23,8 +23,12 @@
             "id": "10e0d8dc0d1dc1d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vieso/Le temps, cette confortable prison.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vieso/Le temps, cette confortable prison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vieso/Le temps, cette confortable prison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vieso/Le temps, cette confortable prison.md"
+              }
             }
           }
         ]
@@ -158,6 +166,8 @@
   "active": "10e0d8dc0d1dc1d6",
   "lastOpenFiles": [
     "Vieso/_Index_Vieso.md",
+    "export/_Index_export.md",
+    "export/Presentation scite Brain diseases/_Index_Presentation scite Brain diseases.md",
     "Vieso/Le temps, cette confortable prison.md",
     "Trape/_Index_Trape.md",
     "_Index_obsidian.md",
