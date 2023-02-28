@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "b7888596e9b078d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "80929abdd0499c1a",
             "type": "leaf",
             "state": {
@@ -53,8 +63,7 @@
                 "viewState": {
                   "x": 919.4345482795277,
                   "y": -218.3650653539607,
-                  "zoom": -0.8666666666666663,
-                  "snapToGrid": false
+                  "zoom": -0.8666666666666663
                 }
               }
             }
@@ -94,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,7 +234,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bf388f9ed82dcdbc",
+  "active": "b7888596e9b078d6",
   "lastOpenFiles": [
     "orphaned files output.md",
     "sieg jeil.md",
