@@ -4,34 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5c145ee5b9f7e17e",
+        "id": "1fcd29fa9aff13f0",
         "type": "tabs",
         "children": [
           {
-            "id": "0d9ea15edacc3d55",
+            "id": "0715fa93c24ab2c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scite/scite kuer/coma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10e0d8dc0d1dc1d6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 923.0389209535758,
-                  "y": -980.0814805520704,
-                  "zoom": -0.980867041425215
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/scite kuer/coma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/scite kuer/coma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Scite/scite kuer/coma.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,12 +142,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0d9ea15edacc3d55",
+  "active": "0715fa93c24ab2c0",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Scite/scite kuer/coma.md",
     "Scite/scite kuer/Scite kuer.md",
     "Scite/scite kuer/Untitled.md",
     "Vieso/Le temps, cette confortable prison.md",
-    "Untitled.canvas",
     "sieg jeil.md",
     "Scite/scite kuer/heures du travail.md",
     "Vieso/_Index_Vieso.md",
