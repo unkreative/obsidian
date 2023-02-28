@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1fcd29fa9aff13f0",
+        "id": "0ce575bb4a24630a",
         "type": "tabs",
         "children": [
           {
-            "id": "0715fa93c24ab2c0",
+            "id": "20b03001085fcb3f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artso/lapidation PRO wichtig und richtig.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artso/lapidation PRO wichtig und richtig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artso/lapidation PRO wichtig und richtig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artso/lapidation PRO wichtig und richtig.md"
+              }
             }
           }
         ]
@@ -153,8 +162,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "4ce44b2d9c2c93a7",
+  "active": "20b03001085fcb3f",
   "lastOpenFiles": [
+    "Artso/Artso.md",
+    "Deutsch/Direkte und indirekte rede.md",
+    "db.md",
     "Scite/cannabis/~$ difference entre THC and CBD.docx",
     "Untitled.canvas",
     "Scite/scite kuer/coma.md",
