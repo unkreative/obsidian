@@ -6,11 +6,11 @@
   "searchFunction": true,
   "allSearchOnlyInFocusedFolder": false,
   "showFilesFromSubFoldersButton": true,
-  "revealActiveFileButton": false,
+  "revealActiveFileButton": true,
   "excludedExtensions": "",
-  "folderIcon": "default",
+  "folderIcon": "typicon",
   "folderCount": true,
-  "folderCountOption": "notes",
+  "folderCountOption": "files",
   "evernoteView": "Vertical",
   "filePreviewOnHover": false,
   "iconBeforeFileName": true,
@@ -20,7 +20,7 @@
   "fixedHeaderInFileList": true,
   "createdYaml": false,
   "fileNameIsHeader": false,
-  "folderNote": false,
+  "folderNote": true,
   "deleteFileOption": "trash",
   "showFileNameAsFullPath": false
 }
