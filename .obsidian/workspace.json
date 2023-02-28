@@ -11,8 +11,10 @@
             "id": "d9cd2b7df3faa323",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "test/te.md"
+              }
             }
           }
         ]
@@ -69,12 +71,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 272.5
   },
   "right": {
     "id": "fef9cb2caeea965b",
@@ -90,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test/te.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test/te.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test/te.md"
+              }
             }
           }
         ]
@@ -156,6 +161,7 @@
   },
   "active": "d9cd2b7df3faa323",
   "lastOpenFiles": [
+    "test/te.md",
     "INFO_5. Changement d'heure_PDF.md",
     "_Index_obsidian.md",
     "INFO_whiteboard_PNG.md",
@@ -182,7 +188,6 @@
     "INFO_boardmarker-yellow 2_PNG.md",
     "INFO_boardmarker-red_PNG.md",
     "INFO_boardmarker-red 2_PNG.md",
-    "INFO_boardmarker-purple_PNG.md",
     "Untitled 1.canvas",
     "test",
     "Scite/cannabis/~$ difference entre THC and CBD.docx",
