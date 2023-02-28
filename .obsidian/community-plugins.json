@@ -18,5 +18,11 @@
   "dbfolder",
   "obsidian-file-cleaner",
   "obsidian-file-color",
-  "file-tree-alternative"
+  "file-tree-alternative",
+  "dataview",
+  "obsidian-fullscreen-plugin",
+  "obsidian-icons-plugin",
+  "obsidian-charts",
+  "obsidian-static-file-server",
+  "obsidian-tasks-plugin"
 ]

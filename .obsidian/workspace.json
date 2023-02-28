@@ -29,13 +29,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bb7acd0ebab9042",
+            "id": "4ce44b2d9c2c93a7",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "file-tree-view",
+              "state": {}
             }
           },
           {
@@ -62,15 +60,16 @@
             }
           },
           {
-            "id": "4ce44b2d9c2c93a7",
+            "id": "9bb7acd0ebab9042",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +153,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "dd136fe8665a053a",
+  "active": "4ce44b2d9c2c93a7",
   "lastOpenFiles": [
     "Scite/cannabis/~$ difference entre THC and CBD.docx",
     "Untitled.canvas",
