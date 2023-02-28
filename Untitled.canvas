@@ -1,13 +1,12 @@
 {
 	"nodes":[
-		{"id":"1e38843d088791c5","x":765,"y":310,"width":250,"height":60,"type":"text","text":"Dain Mac Daddy"},
-		{"id":"3f9fddd7b74a9b8d","x":523,"y":-1060,"width":734,"height":400,"type":"file","file":"Scite/scite kuer/Les hormones sexuels.md"}
+		{"type":"text","text":"Dain Mac Daddy","id":"1e38843d088791c5","x":765,"y":310,"width":250,"height":60},
+		{"type":"file","file":"Scite/scite kuer/Les hormones sexuels.md","id":"3f9fddd7b74a9b8d","x":523,"y":-1060,"width":734,"height":400}
 	],
 	"edges":[
 		{"id":"1b5de21f6a90d53a","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"right"},
 		{"id":"babd508d24520d8c","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"bottom"},
 		{"id":"730de8a68a3c393e","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"top"},
-		{"id":"d9e375698f7a5283","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"left"},
 		{"id":"bf31a18433460888","fromNode":"3f9fddd7b74a9b8d","fromSide":"left","toNode":"1e38843d088791c5","toSide":"bottom"},
 		{"id":"7b8aab151af2d938","fromNode":"3f9fddd7b74a9b8d","fromSide":"bottom","toNode":"1e38843d088791c5","toSide":"bottom"},
 		{"id":"dbce15861df96511","fromNode":"3f9fddd7b74a9b8d","fromSide":"right","toNode":"1e38843d088791c5","toSide":"bottom"},

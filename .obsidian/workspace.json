@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vieso/Le temps, cette confortable prison.md",
+                "file": "Scite/scite kuer/Scite kuer.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,18 @@
             "id": "10e0d8dc0d1dc1d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Vieso/Le temps, cette confortable prison.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 923.0389209535758,
+                  "y": -980.0814805520704,
+                  "zoom": -0.980867041425215
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vieso/Le temps, cette confortable prison.md",
+                "file": "Scite/scite kuer/Scite kuer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vieso/Le temps, cette confortable prison.md",
+                "file": "Scite/scite kuer/Scite kuer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vieso/Le temps, cette confortable prison.md"
+                "file": "Scite/scite kuer/Scite kuer.md"
               }
             }
           }
@@ -163,23 +165,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "10e0d8dc0d1dc1d6",
+  "active": "0d9ea15edacc3d55",
   "lastOpenFiles": [
+    "Scite/scite kuer/Untitled.md",
+    "Vieso/Le temps, cette confortable prison.md",
+    "Untitled.canvas",
+    "sieg jeil.md",
+    "Scite/scite kuer/heures du travail.md",
     "Vieso/_Index_Vieso.md",
     "export/_Index_export.md",
     "export/Presentation scite Brain diseases/_Index_Presentation scite Brain diseases.md",
-    "Vieso/Le temps, cette confortable prison.md",
     "Trape/_Index_Trape.md",
     "_Index_obsidian.md",
     "orphaned files output.md",
-    "sieg jeil.md",
     "Trape/Trape notizen.md",
-    "5. regeln der grosschreibung.md",
+    "Deutsch/5. regeln der grosschreibung.md",
     "Deutsch/einleitung, lineare erörterung.md",
     "Artso/lapidation PRO wichtig und richtig.md",
     "Scite/scite kuer/5. Changement d'heure.pdf",
-    "Untitled.canvas",
-    "Untitled.md",
     "Deutsch/Résume von Der richter und sein henker.md"
   ]
 }
