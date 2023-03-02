@@ -11,8 +11,12 @@
             "id": "261d9c631c07e7f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Francais/Dissertation gratuité des transports publiques.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Francais/Dissertation gratuité des transports publiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Francais/Dissertation gratuité des transports publiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Francais/Dissertation gratuité des transports publiques.md"
+              }
             }
           },
           {
@@ -164,8 +172,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4ce44b2d9c2c93a7",
+  "active": "261d9c631c07e7f9",
   "lastOpenFiles": [
+    "Francais/Dissertation gratuité des transports publiques.md",
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default/getIdeas.md",
@@ -195,7 +204,6 @@
     "INFO_sponge_PNG.md",
     "INFO_sponge 2_PNG.md",
     "INFO_chalk-yellow_PNG.md",
-    "INFO_chalk-yellow 2_PNG.md",
     "Untitled 1.canvas",
     "test",
     "Scite/cannabis/~$ difference entre THC and CBD.docx",
