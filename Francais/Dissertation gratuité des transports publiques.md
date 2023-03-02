@@ -52,3 +52,4 @@ Inconvénients:
     
 
 Il est important de noter que les avantages et inconvénients de la gratuité des transports publics au Luxembourg peuvent varier selon les contextes locaux et les défis spécifiques du pays, mais la mesure semble être bien accueillie par la population et les autorités gouvernementales.
+

@@ -47,9 +47,9 @@
       "icon": "quote-glyph"
     }
   ],
-  "appendMethod": "workspace",
+  "appendMethod": "body",
   "shouldShowMenuOnSelect": false,
-  "cMenuVisibility": false,
+  "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 9
 }
