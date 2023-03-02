@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8d01dd65838ede8f",
+        "id": "4b831a8120bea612",
         "type": "tabs",
         "children": [
           {
-            "id": "df248797c62b2a88",
+            "id": "261d9c631c07e7f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "textgenerator/prompts/default/getTags.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "textgenerator/prompts/default/getTags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "textgenerator/prompts/default/getTags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "textgenerator/prompts/default/getTags.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +164,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "df248797c62b2a88",
+  "active": "4ce44b2d9c2c93a7",
   "lastOpenFiles": [
+    "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default/getIdeas.md",
     "textgenerator/prompts/default/getEmailPos.md",
@@ -183,7 +175,6 @@
     "Comment de rédiger une email.md",
     "textgenerator/prompts/_Index_prompts.md",
     "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getParagraph.md",
     "textgenerator/prompts/default/getTitles.md",
     "textgenerator/prompts/default/summarize.md",
