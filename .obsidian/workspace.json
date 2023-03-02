@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francais/Ecoute 28 Février.md",
+                "file": "textgenerator/prompts/default/getTags.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francais/Ecoute 28 Février.md",
+                "file": "textgenerator/prompts/default/getTags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francais/Ecoute 28 Février.md",
+                "file": "textgenerator/prompts/default/getTags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francais/Ecoute 28 Février.md"
+                "file": "textgenerator/prompts/default/getTags.md"
               }
             }
           },
@@ -174,22 +175,23 @@
   },
   "active": "df248797c62b2a88",
   "lastOpenFiles": [
-    "textgenerator/prompts/_Index_prompts.md",
-    "textgenerator/prompts/default/rewrite.md",
+    "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default/getIdeas.md",
     "textgenerator/prompts/default/getEmailPos.md",
+    "textgenerator/prompts/default/getEmailNeg.md",
+    "Francais/Ecoute 28 Février.md",
+    "Comment de rédiger une email.md",
+    "textgenerator/prompts/_Index_prompts.md",
+    "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getParagraph.md",
     "textgenerator/prompts/default/getTitles.md",
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/simplify.md",
-    "textgenerator/prompts/default/getEmailNeg.md",
-    "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
     "test/te.md",
-    "Francais/Ecoute 28 Février.md",
     "INFO_5. Changement d'heure_PDF.md",
     "_Index_obsidian.md",
     "INFO_whiteboard_PNG.md",
@@ -203,7 +205,6 @@
     "INFO_sponge 2_PNG.md",
     "INFO_chalk-yellow_PNG.md",
     "INFO_chalk-yellow 2_PNG.md",
-    "INFO_chalk-white_PNG.md",
     "Untitled 1.canvas",
     "test",
     "Scite/cannabis/~$ difference entre THC and CBD.docx",
