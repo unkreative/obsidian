@@ -24,5 +24,7 @@
   "obsidian-icons-plugin",
   "obsidian-charts",
   "obsidian-static-file-server",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "cmenu-plugin",
+  "obsidian-textgenerator-plugin"
 ]
