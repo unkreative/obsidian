@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c3333a0be50a7a",
+        "id": "8d01dd65838ede8f",
         "type": "tabs",
         "children": [
           {
-            "id": "d9cd2b7df3faa323",
+            "id": "df248797c62b2a88",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "test/te.md"
+                "file": "Francais/Ecoute 28 Février.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/te.md",
+                "file": "Francais/Ecoute 28 Février.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/te.md",
+                "file": "Francais/Ecoute 28 Février.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,16 +133,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/te.md"
+                "file": "Francais/Ecoute 28 Février.md"
               }
             }
+          },
+          {
+            "id": "7a4d5bf744783bd4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +169,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d9cd2b7df3faa323",
+  "active": "7a4d5bf744783bd4",
   "lastOpenFiles": [
     "test/te.md",
+    "Francais/Ecoute 28 Février.md",
     "INFO_5. Changement d'heure_PDF.md",
     "_Index_obsidian.md",
     "INFO_whiteboard_PNG.md",
@@ -187,7 +198,6 @@
     "INFO_boardmarker-yellow_PNG.md",
     "INFO_boardmarker-yellow 2_PNG.md",
     "INFO_boardmarker-red_PNG.md",
-    "INFO_boardmarker-red 2_PNG.md",
     "Untitled 1.canvas",
     "test",
     "Scite/cannabis/~$ difference entre THC and CBD.docx",

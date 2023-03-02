@@ -2,6 +2,7 @@
 📄 [[Francais/demi dissertation|demi dissertation]]
 📄 [[Francais/Dissertation sur le rire|Dissertation sur le rire]]
 📄 [[Francais/dissertation thèmes|dissertation thèmes]]
+📄 [[Francais/Ecoute 28 Février|Ecoute 28 Février]]
 📄 [[Francais/La dissertation dialectique (pour ou contre)|La dissertation dialectique (pour ou contre)]]
 📄 [[Francais/La structure d'un paragraphe argumentatif|La structure d'un paragraphe argumentatif]]
 📄 [[Francais/le tourisme avantages et inconvénients|le tourisme avantages et inconvénients]]
