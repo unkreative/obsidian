@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df5a025e48d321d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +183,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "261d9c631c07e7f9",
+  "active": "df5a025e48d321d9",
   "lastOpenFiles": [
     "Francais/Dissertation gratuité des transports publiques.md",
     "textgenerator/prompts/default/getTags.md",
