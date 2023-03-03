@@ -11,26 +11,13 @@
             "id": "261d9c631c07e7f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Francais/Dissertation gratuité des transports publiques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df5a025e48d321d9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
+                "file": "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francais/Dissertation gratuité des transports publiques.md",
+                "file": "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francais/Dissertation gratuité des transports publiques.md",
+                "file": "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francais/Dissertation gratuité des transports publiques.md"
+                "file": "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf"
               }
             }
           },
@@ -183,9 +170,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "df5a025e48d321d9",
+  "active": "261d9c631c07e7f9",
   "lastOpenFiles": [
     "Francais/Dissertation gratuité des transports publiques.md",
+    "INFO_Chromosomes, Cellules, Fécondation_PDF.md",
+    "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf",
+    "Scite/scite kuer/grossesse",
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default/getIdeas.md",
@@ -214,7 +204,6 @@
     "test/test 1.md",
     "INFO_sponge_PNG.md",
     "INFO_sponge 2_PNG.md",
-    "INFO_chalk-yellow_PNG.md",
     "Untitled 1.canvas",
     "test",
     "Scite/cannabis/~$ difference entre THC and CBD.docx",

@@ -33,3 +33,4 @@ export/Presentation scite Brain diseases/plugin/chalkboard/img/chalk-yellow.png
 export/Presentation scite Brain diseases/plugin/chalkboard/img/sponge 2.png
 export/Presentation scite Brain diseases/plugin/chalkboard/img/sponge.png
 export/Presentation scite Brain diseases/plugin/chalkboard/img/whiteboard.png
+Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf
