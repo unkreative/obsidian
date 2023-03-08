@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4b831a8120bea612",
+        "id": "21b468e229e4fa0f",
         "type": "tabs",
         "children": [
           {
-            "id": "261d9c631c07e7f9",
+            "id": "eb65b5b549a2f034",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -170,11 +164,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "261d9c631c07e7f9",
+  "active": "eb65b5b549a2f034",
   "lastOpenFiles": [
+    "Scite/_Index_Scite.md",
+    "Scite/scite kuer/grossesse/grossesse.md",
+    "Scite/scite kuer/grossesse/_Index_grossesse.md",
+    "Scite/scite kuer/groupe sanguins/_Index_groupe sanguins.md",
+    "textgenerator/_Index_textgenerator.md",
+    "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf",
     "Francais/Dissertation gratuité des transports publiques.md",
     "INFO_Chromosomes, Cellules, Fécondation_PDF.md",
-    "Scite/scite kuer/grossesse/Chromosomes, Cellules, Fécondation.pdf",
     "Scite/scite kuer/grossesse",
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getOutline.md",
@@ -198,12 +197,7 @@
     "INFO_whiteboard_PNG.md",
     "INFO_chalk-green 2_PNG.md",
     "INFO_chalk-orange 2_PNG.md",
-    "INFO_chalk-purple_PNG.md",
-    "db.md",
     "export/Presentation scite Brain diseases/plugin/chalkboard/img/boardmarker-orange.png",
-    "test/test 1.md",
-    "INFO_sponge_PNG.md",
-    "INFO_sponge 2_PNG.md",
     "Untitled 1.canvas",
     "test",
     "Scite/cannabis/~$ difference entre THC and CBD.docx",
