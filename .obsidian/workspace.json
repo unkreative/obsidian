@@ -164,8 +164,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "eb65b5b549a2f034",
+  "active": "9bb7acd0ebab9042",
   "lastOpenFiles": [
+    "knowlegde base/ressources",
+    "knowlegde base/physics/quantum",
+    "knowlegde base/others",
+    "knowlegde base/physics/astro",
+    "knowlegde base/math",
+    "knowlegde base/physics",
+    "knowlegde base/science",
+    "knowlegde base",
     "Scite/_Index_Scite.md",
     "Scite/scite kuer/grossesse/grossesse.md",
     "Scite/scite kuer/grossesse/_Index_grossesse.md",
@@ -189,19 +197,13 @@
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/simplify.md",
     "textgenerator/prompts/default",
-    "textgenerator/prompts",
-    "textgenerator",
     "test/te.md",
     "INFO_5. Changement d'heure_PDF.md",
     "_Index_obsidian.md",
     "INFO_whiteboard_PNG.md",
     "INFO_chalk-green 2_PNG.md",
-    "INFO_chalk-orange 2_PNG.md",
     "export/Presentation scite Brain diseases/plugin/chalkboard/img/boardmarker-orange.png",
     "Untitled 1.canvas",
-    "test",
-    "Scite/cannabis/~$ difference entre THC and CBD.docx",
-    "Untitled.canvas",
-    "Scite/scite kuer/5. Changement d'heure.pdf"
+    "Untitled.canvas"
   ]
 }
